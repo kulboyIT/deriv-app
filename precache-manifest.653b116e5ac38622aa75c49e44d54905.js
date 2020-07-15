@@ -152,7 +152,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.default~account~cashier.6cbcf627a7a512b16b0b.css"
   },
   {
-    "revision": "dd7d76e0e548c679ec11",
+    "revision": "b87df4fdd5f923106e8e",
     "url": "/css/core.main.css"
   },
   {
@@ -684,8 +684,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.default~account~cashier.d04c7e012cd32765304e.js"
   },
   {
-    "revision": "dd7d76e0e548c679ec11",
-    "url": "/js/core.main.67d81a34ae91ecb47234.js"
+    "revision": "b87df4fdd5f923106e8e",
+    "url": "/js/core.main.5f383b7a3867b6f3ab22.js"
   },
   {
     "revision": "1b55880abd2dbd717047",
