@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.5e58eaf5ae7ef21e72a6.css"
   },
   {
-    "revision": "2b781b69326eaa488a03",
+    "revision": "4da1372fb6e1f7feb600",
     "url": "/css/core.main.css"
   },
   {
@@ -152,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/trader.main.css"
   },
   {
-    "revision": "0f8c3098fef09a23c34f51c86d250b75",
-    "url": "/css/trader.mt5.51d52637e4d61034782b.css"
+    "revision": "db6395c23ea9e2973a91ae5976482171",
+    "url": "/css/trader.mt5.1df22c8130d668cc9605.css"
   },
   {
     "revision": "83e5db5fa996506537aba025e4e92cf9",
@@ -656,8 +656,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.91113bb68d8123875b2d.js"
   },
   {
-    "revision": "2b781b69326eaa488a03",
-    "url": "/js/core.main.8005dbdbec021d1643b4.js"
+    "revision": "4da1372fb6e1f7feb600",
+    "url": "/js/core.main.f9e4bd64b6db6fd2f790.js"
   },
   {
     "revision": "1a119711407afc3a9f9d",
@@ -680,8 +680,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.c92daf8cf95791b4fed9.js"
   },
   {
-    "revision": "bd8266cfa4197fa0387a",
-    "url": "/js/core.trader.3ddc1dd0a2f9674f8c6e.js"
+    "revision": "9c123938d88b562c18f8",
+    "url": "/js/core.trader.7122db0018c7ae213c18.js"
   },
   {
     "revision": "09d0e520adc6b62b81e0",
@@ -792,12 +792,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.e897e3760dab809d17d8.js"
   },
   {
-    "revision": "7c12b3982c0fa2108fcc4b557ca7d2c3",
+    "revision": "32cc18112f4a9fe196d5802c2b314e48",
     "url": "/js/trader.main.js"
   },
   {
-    "revision": "e78fe4e934572b9cf7804a9f67cf4dc7",
-    "url": "/js/trader.mt5.5a307e753280c78433b2.js"
+    "revision": "1b7902527f3ce29ce9b78433757bb7eb",
+    "url": "/js/trader.mt5.277e62d8c6fca90b3457.js"
   },
   {
     "revision": "43eac0eafc4899870166d28d542f9afd",
