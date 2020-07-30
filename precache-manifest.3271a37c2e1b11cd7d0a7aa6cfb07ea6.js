@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "548fb7099b09977764f729a9e637a9ac",
+    "revision": "4fd1adb8ef6255f83b7ba3abb7540478",
     "url": "/account/css/account.css"
   },
   {
-    "revision": "69847cdb7237a246e343d6438e13d142",
-    "url": "/account/js/account.404.985c5d196acc9296fac9.js"
+    "revision": "7397aaca532272c2caba92419013cabd",
+    "url": "/account/js/account.404.e9913ea96196b2992d48.js"
   },
   {
-    "revision": "ece56cb2fb8900821232bbfb449552a0",
+    "revision": "6e7733ebe03c4096be0ba8771028bb69",
     "url": "/account/js/account.js"
   },
   {
@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.5e58eaf5ae7ef21e72a6.css"
   },
   {
-    "revision": "654e4b3f840bbbe27912",
+    "revision": "a13a8fb96e9c53765133",
     "url": "/css/core.main.css"
   },
   {
@@ -640,8 +640,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-signup-modal.ff9d494bb44bc758f537.js"
   },
   {
-    "revision": "e8ffb7653dbf17b87a2b",
-    "url": "/js/core.account.a747f53dedd07ff5ca60.js"
+    "revision": "49a43b4fc6351c5a6f2b",
+    "url": "/js/core.account.eaaf95b2a0f90047887b.js"
   },
   {
     "revision": "13afba612fe266ae84a1",
@@ -656,8 +656,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.91113bb68d8123875b2d.js"
   },
   {
-    "revision": "654e4b3f840bbbe27912",
-    "url": "/js/core.main.53795766721b003599c0.js"
+    "revision": "a13a8fb96e9c53765133",
+    "url": "/js/core.main.8fb6ad535a3687b5b333.js"
   },
   {
     "revision": "1a119711407afc3a9f9d",
@@ -1000,7 +1000,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/favicons/favicon.ico"
   },
   {
-    "revision": "9317c1c879f2b158ff652ea3d6d43d48",
+    "revision": "6f7a4fb759594b0738f815e713828cab",
     "url": "/public/images/sprite/common.svg"
   },
   {
