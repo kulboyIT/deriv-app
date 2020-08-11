@@ -136,8 +136,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-signup-modal.6309c4647cca82a0b940.css"
   },
   {
-    "revision": "6942ac091e90bb2cf25c",
-    "url": "/css/core.account-types-modal.ee6936767eef77487d0c.css"
+    "revision": "4feb84a3a6d3aa2652e6",
+    "url": "/css/core.account-types-modal.ce8b3c2f2f4542dd04e1.css"
   },
   {
     "revision": "cd118be35f620e621c5f",
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "9bc60faae4c27191f369",
+    "revision": "56574bed3ebddd7704b7",
     "url": "/css/core.main.css"
   },
   {
@@ -652,8 +652,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-signup-modal.4946e86fbf71c7cb0571.js"
   },
   {
-    "revision": "6942ac091e90bb2cf25c",
-    "url": "/js/core.account-types-modal.494f1f9d279f54250f36.js"
+    "revision": "4feb84a3a6d3aa2652e6",
+    "url": "/js/core.account-types-modal.2abebeabdf1f0520414f.js"
   },
   {
     "revision": "e9371098a07dc2a9e147",
@@ -672,8 +672,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.05673f7aa339d4a61589.js"
   },
   {
-    "revision": "9bc60faae4c27191f369",
-    "url": "/js/core.main.3a77e100de742e5de552.js"
+    "revision": "56574bed3ebddd7704b7",
+    "url": "/js/core.main.2c3feecdce62e97d049b.js"
   },
   {
     "revision": "cac7c32e7f841c7700c6",
@@ -696,8 +696,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.419ed52af9e48a168ac1.js"
   },
   {
-    "revision": "2ffb61b0fbec93d538ad",
-    "url": "/js/core.trader.42071da2988f56f91fb6.js"
+    "revision": "f2266f6d8c8937aab12e",
+    "url": "/js/core.trader.e5008ce05a271ecc086e.js"
   },
   {
     "revision": "2906e5aab2a06ee42a03",
@@ -808,12 +808,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.e897e3760dab809d17d8.js"
   },
   {
-    "revision": "4cc8803f838b68bd95bcb1e9e8a89f8d",
+    "revision": "b289a771fa453d5749dddfc263454285",
     "url": "/js/trader.main.js"
   },
   {
-    "revision": "81fef4bd631d0e27bf7dd83b083003cd",
-    "url": "/js/trader.mt5.f5b1fc584a6b7483561a.js"
+    "revision": "14a0a4c1969287e79164f44c02e3ab78",
+    "url": "/js/trader.mt5.0c9e33f325fd9dc3bfdc.js"
   },
   {
     "revision": "612373381583b8f75447801707cc6b13",
