@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "2e501314a9f0761c49d8",
+    "revision": "b6c96913518442e911e3",
     "url": "/css/core.main.css"
   },
   {
@@ -160,12 +160,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/smartcharts.css"
   },
   {
-    "revision": "42a4cf31935a0cdef053b0bd732127cc",
+    "revision": "7eb739a1acd8f3149b8d6550ba9d1088",
     "url": "/css/trader.main.css"
   },
   {
-    "revision": "20708fa3446468d22b50d25ce0c6e716",
-    "url": "/css/trader.mt5.350150e081a2cb913fc5.css"
+    "revision": "19c695caf79af980da8eef693f586135",
+    "url": "/css/trader.mt5.e0d2b8075e26871b83c2.css"
   },
   {
     "revision": "4c4f754171c7701112c03b2404c45797",
@@ -672,8 +672,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.05673f7aa339d4a61589.js"
   },
   {
-    "revision": "2e501314a9f0761c49d8",
-    "url": "/js/core.main.deb9634e58902e44c661.js"
+    "revision": "b6c96913518442e911e3",
+    "url": "/js/core.main.342a4b331b07a9da202f.js"
   },
   {
     "revision": "cac7c32e7f841c7700c6",
@@ -696,8 +696,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.419ed52af9e48a168ac1.js"
   },
   {
-    "revision": "45efd393ef4e33709d5f",
-    "url": "/js/core.trader.1c1852a9cd82e9b13944.js"
+    "revision": "579dab74955f5d1ffea4",
+    "url": "/js/core.trader.2b2190f042afd5686aec.js"
   },
   {
     "revision": "2906e5aab2a06ee42a03",
@@ -808,12 +808,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.e897e3760dab809d17d8.js"
   },
   {
-    "revision": "a534bfbc94d7c0f89a57bf9dad22ee10",
+    "revision": "d7756f1f4ca9e00fe09f21597299ca78",
     "url": "/js/trader.main.js"
   },
   {
-    "revision": "12febfe59ac8dc8d0d05bdb70b16c872",
-    "url": "/js/trader.mt5.8995228f86b59fdf4af1.js"
+    "revision": "0cccaa717c83c64fea25d74d0b28c679",
+    "url": "/js/trader.mt5.fd9f1af04eef31133739.js"
   },
   {
     "revision": "612373381583b8f75447801707cc6b13",
