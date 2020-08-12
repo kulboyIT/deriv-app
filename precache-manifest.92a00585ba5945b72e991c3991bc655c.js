@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "efbd88fb575d57d4bb8b",
+    "revision": "f033873898b19d9a968b",
     "url": "/css/core.main.css"
   },
   {
@@ -164,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/trader.main.css"
   },
   {
-    "revision": "19c695caf79af980da8eef693f586135",
-    "url": "/css/trader.mt5.e0d2b8075e26871b83c2.css"
+    "revision": "2203347c81e5ae7c85821629a5993ca7",
+    "url": "/css/trader.mt5.ddd2f8e9969b255094b5.css"
   },
   {
     "revision": "4c4f754171c7701112c03b2404c45797",
@@ -672,8 +672,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.05673f7aa339d4a61589.js"
   },
   {
-    "revision": "efbd88fb575d57d4bb8b",
-    "url": "/js/core.main.be62c47960a3636e511f.js"
+    "revision": "f033873898b19d9a968b",
+    "url": "/js/core.main.e3c1af9c6a2d49f1bdcc.js"
   },
   {
     "revision": "cac7c32e7f841c7700c6",
@@ -696,8 +696,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.419ed52af9e48a168ac1.js"
   },
   {
-    "revision": "f2266f6d8c8937aab12e",
-    "url": "/js/core.trader.e5008ce05a271ecc086e.js"
+    "revision": "1d7ab09787a4bbd889f0",
+    "url": "/js/core.trader.57b4272e1bd4d86b1fde.js"
   },
   {
     "revision": "2906e5aab2a06ee42a03",
@@ -808,12 +808,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.e897e3760dab809d17d8.js"
   },
   {
-    "revision": "b289a771fa453d5749dddfc263454285",
+    "revision": "0bb8dbd90d3a3f9375ac26a1abb0ec55",
     "url": "/js/trader.main.js"
   },
   {
-    "revision": "14a0a4c1969287e79164f44c02e3ab78",
-    "url": "/js/trader.mt5.0c9e33f325fd9dc3bfdc.js"
+    "revision": "356872e607d042e1a943eec582795924",
+    "url": "/js/trader.mt5.ecf143bd5b6a348d3a99.js"
   },
   {
     "revision": "612373381583b8f75447801707cc6b13",
