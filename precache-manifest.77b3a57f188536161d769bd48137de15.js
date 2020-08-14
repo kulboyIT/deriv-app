@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "b9b33c334a42abd14546",
+    "revision": "519c7905996644d5e663",
     "url": "/css/core.main.css"
   },
   {
@@ -672,8 +672,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.5ea61d8a9362c62ed7d0.js"
   },
   {
-    "revision": "b9b33c334a42abd14546",
-    "url": "/js/core.main.5a4515f9a279742348c6.js"
+    "revision": "519c7905996644d5e663",
+    "url": "/js/core.main.8e2aaf3d6886875ab788.js"
   },
   {
     "revision": "422b01b88ab813fe85c4",
@@ -696,8 +696,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.702922a457a53de98914.js"
   },
   {
-    "revision": "6d1631e8be9c48ade524",
-    "url": "/js/core.trader.4e11b031c1eb48c60ccb.js"
+    "revision": "d0364cc8f48fd837dd5f",
+    "url": "/js/core.trader.3585138771853a8887b7.js"
   },
   {
     "revision": "81eb63443295f51d0b45",
@@ -808,12 +808,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.e897e3760dab809d17d8.js"
   },
   {
-    "revision": "0c0f95c390da140b174d1b9739a2dc85",
+    "revision": "331e6a8a9701c2ebfce57c767d615afd",
     "url": "/js/trader.main.js"
   },
   {
-    "revision": "20da8a88f27b736ef5389a63f35cb815",
-    "url": "/js/trader.mt5.1cb24a042e581ee70f31.js"
+    "revision": "58f69ca5c5ef5ab3fefb57e781128d6c",
+    "url": "/js/trader.mt5.0938306d3b33696487f2.js"
   },
   {
     "revision": "612373381583b8f75447801707cc6b13",
