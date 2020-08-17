@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.e9913ea96196b2992d48.js"
   },
   {
-    "revision": "4268ca10cf63f8549c8852464e57b0aa",
+    "revision": "959985b3728fe7d9f48df9aa4632da69",
     "url": "/account/js/account.js"
   },
   {
@@ -140,15 +140,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.b868e08753c07c44ce95.css"
   },
   {
-    "revision": "2fe7533aa8328bb671bb",
-    "url": "/css/core.cashier.ba97c96509256294310f.css"
+    "revision": "49189a6a61d791f3f39d",
+    "url": "/css/core.cashier.b318253d867adb2e58ed.css"
   },
   {
     "revision": "7dbd4702b56ffa0ff1f2",
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "ee7af9079a454a3a2201",
+    "revision": "cc092369e77211f1e1fc",
     "url": "/css/core.main.css"
   },
   {
@@ -656,15 +656,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-types-modal.7fd5ea0d3302f16c3190.js"
   },
   {
-    "revision": "0cdc57dfe43c025ce4ff",
-    "url": "/js/core.account.4f9a4f67c62d0df46db2.js"
+    "revision": "aa8d5467db3a0b0d5cad",
+    "url": "/js/core.account.57bbf49af9130bb4ac2c.js"
   },
   {
     "revision": "ee7939a2c6712f409c14",
     "url": "/js/core.bot.ee91e55a7d54cab529d2.js"
   },
   {
-    "revision": "2fe7533aa8328bb671bb",
+    "revision": "49189a6a61d791f3f39d",
     "url": "/js/core.cashier.fb293eee5ce02287499a.js"
   },
   {
@@ -672,12 +672,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.f30518ccdccd1a712e55.js"
   },
   {
-    "revision": "ee7af9079a454a3a2201",
-    "url": "/js/core.main.12a89e23c1f1a4929251.js"
+    "revision": "cc092369e77211f1e1fc",
+    "url": "/js/core.main.9e4f0d3431ff83cb77aa.js"
   },
   {
-    "revision": "422b01b88ab813fe85c4",
-    "url": "/js/core.reality-check-modal.56da764a8c90c2f81410.js"
+    "revision": "0c50bcb0dd8be359c558",
+    "url": "/js/core.reality-check-modal.9b33263628c041935533.js"
   },
   {
     "revision": "19004d515e1679f7fdad",
