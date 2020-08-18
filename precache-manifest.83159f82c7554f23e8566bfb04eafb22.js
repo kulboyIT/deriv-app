@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.e9913ea96196b2992d48.js"
   },
   {
-    "revision": "959985b3728fe7d9f48df9aa4632da69",
+    "revision": "acd4a3ebd2d45d6cca128c22f2776b48",
     "url": "/account/js/account.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/file-uploader-container.js"
   },
   {
-    "revision": "0a08b72ff8be98b33915574258f32b61",
+    "revision": "84cef38dca5a375d4411e079b4520f97",
     "url": "/account/js/financial-assessment.js"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "2dd43cd21c09b06b2a69",
+    "revision": "ef2c1c24992c531f620d",
     "url": "/css/core.main.css"
   },
   {
@@ -656,8 +656,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-types-modal.7fd5ea0d3302f16c3190.js"
   },
   {
-    "revision": "aa8d5467db3a0b0d5cad",
-    "url": "/js/core.account.57bbf49af9130bb4ac2c.js"
+    "revision": "22817ba5eb99ec45f302",
+    "url": "/js/core.account.398099b2a8180880a1b7.js"
   },
   {
     "revision": "ee7939a2c6712f409c14",
@@ -672,8 +672,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.f30518ccdccd1a712e55.js"
   },
   {
-    "revision": "2dd43cd21c09b06b2a69",
-    "url": "/js/core.main.376611aaaac96cb84fbe.js"
+    "revision": "ef2c1c24992c531f620d",
+    "url": "/js/core.main.257ca2167fbe723d9a9a.js"
   },
   {
     "revision": "0c50bcb0dd8be359c558",
