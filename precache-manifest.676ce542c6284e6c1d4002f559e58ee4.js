@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.b868e08753c07c44ce95.css"
   },
   {
-    "revision": "49189a6a61d791f3f39d",
+    "revision": "07719c07b40604850093",
     "url": "/css/core.cashier.b318253d867adb2e58ed.css"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "426a54254f40de57fd7e",
+    "revision": "de3167b03709d998c4eb",
     "url": "/css/core.main.css"
   },
   {
@@ -664,20 +664,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.ee91e55a7d54cab529d2.js"
   },
   {
-    "revision": "49189a6a61d791f3f39d",
-    "url": "/js/core.cashier.fb293eee5ce02287499a.js"
+    "revision": "07719c07b40604850093",
+    "url": "/js/core.cashier.e51ae691704b2eb95e87.js"
   },
   {
     "revision": "7dbd4702b56ffa0ff1f2",
     "url": "/js/core.complaints-policy.f30518ccdccd1a712e55.js"
   },
   {
-    "revision": "426a54254f40de57fd7e",
-    "url": "/js/core.main.603fcdeedd70067b8165.js"
+    "revision": "de3167b03709d998c4eb",
+    "url": "/js/core.main.af33dc132153dc7fb1c4.js"
   },
   {
-    "revision": "0c50bcb0dd8be359c558",
-    "url": "/js/core.reality-check-modal.9b33263628c041935533.js"
+    "revision": "4225536f604f8a2b5799",
+    "url": "/js/core.reality-check-modal.89f23658744f818c0146.js"
   },
   {
     "revision": "19004d515e1679f7fdad",
@@ -696,8 +696,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.702922a457a53de98914.js"
   },
   {
-    "revision": "d0364cc8f48fd837dd5f",
-    "url": "/js/core.trader.3585138771853a8887b7.js"
+    "revision": "0f403e9abedb4dcb6829",
+    "url": "/js/core.trader.41a17f162deaa03ba7a6.js"
   },
   {
     "revision": "81eb63443295f51d0b45",
@@ -808,12 +808,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.e897e3760dab809d17d8.js"
   },
   {
-    "revision": "331e6a8a9701c2ebfce57c767d615afd",
+    "revision": "c2f31f26ebf266bd853de7e212cc36e5",
     "url": "/js/trader.main.js"
   },
   {
-    "revision": "58f69ca5c5ef5ab3fefb57e781128d6c",
-    "url": "/js/trader.mt5.0938306d3b33696487f2.js"
+    "revision": "8800ec4d0c0b3abd66e479979b56ce3f",
+    "url": "/js/trader.mt5.6331416bab18c9fe86de.js"
   },
   {
     "revision": "612373381583b8f75447801707cc6b13",
