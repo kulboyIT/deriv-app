@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.e9913ea96196b2992d48.js"
   },
   {
-    "revision": "2a1c7320f4f06bd6909ac9c6155fe095",
+    "revision": "ffbf727124c355e8960ac4c800d0a9e8",
     "url": "/account/js/account.js"
   },
   {
@@ -108,7 +108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poi-verified.js"
   },
   {
-    "revision": "473f7702c994b48d63e28cd648807ea4",
+    "revision": "1fc0e6800b8e4379b692b425143b6d90",
     "url": "/account/js/proof-of-address-container.js"
   },
   {
@@ -128,11 +128,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/text.js"
   },
   {
-    "revision": "67b9a75654c56417c706bf58ee015058",
+    "revision": "efe901643724e525bc60e6e50e070117",
     "url": "/css/bot-web-ui.main.css"
   },
   {
-    "revision": "da33a11cd4fa2d0b222b",
+    "revision": "246721533613b40d6dc7",
     "url": "/css/core.account-signup-modal.6309c4647cca82a0b940.css"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "36972ceaaaba01de6c6d",
+    "revision": "78057a59e7cc370c940b",
     "url": "/css/core.main.css"
   },
   {
@@ -180,7 +180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/favicon.ico"
   },
   {
-    "revision": "67b9a75654c56417c706bf58ee015058",
+    "revision": "efe901643724e525bc60e6e50e070117",
     "url": "/js/bot/bot-web-ui.main.css"
   },
   {
@@ -648,16 +648,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-info.20dbc64c762b575be1a1.js"
   },
   {
-    "revision": "da33a11cd4fa2d0b222b",
-    "url": "/js/core.account-signup-modal.0e2782fe1369c8529e25.js"
+    "revision": "246721533613b40d6dc7",
+    "url": "/js/core.account-signup-modal.c7605a4d12d803120d15.js"
   },
   {
     "revision": "487dd562fd5e505fc8f5",
     "url": "/js/core.account-types-modal.1f202d0e8fc84c39f684.js"
   },
   {
-    "revision": "982514c692cf635115d9",
-    "url": "/js/core.account.778247f9e53f4513bb0f.js"
+    "revision": "ea686fa9e05607c9340e",
+    "url": "/js/core.account.2bac544fb4edf5ba749a.js"
   },
   {
     "revision": "5ca8b92e793cc366ee9f",
@@ -672,16 +672,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.c66a22d5927b9350f09b.js"
   },
   {
-    "revision": "36972ceaaaba01de6c6d",
-    "url": "/js/core.main.b353e44d5d6ffbfa8b58.js"
+    "revision": "78057a59e7cc370c940b",
+    "url": "/js/core.main.f93b2f5d97b32bbee293.js"
   },
   {
     "revision": "99a64bcb9e2a11954f60",
     "url": "/js/core.reality-check-modal.c0f7ea5c1a7f3cfa141a.js"
   },
   {
-    "revision": "d52de27b7be15824c9b7",
-    "url": "/js/core.reset-password-modal.6c217dff7f0ad10f3034.js"
+    "revision": "f756817b07c281cad940",
+    "url": "/js/core.reset-password-modal.a7216b0ca062052bab54.js"
   },
   {
     "revision": "cf8e123e21d59d2fb13a",
@@ -696,8 +696,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.46eb1b987428d1cd220e.js"
   },
   {
-    "revision": "b2c9c0258231c7720b6d",
-    "url": "/js/core.trader.f87ec9330ec5f5cd37d4.js"
+    "revision": "0cfb320809bba21d5ec2",
+    "url": "/js/core.trader.063e411053cce15c04ce.js"
   },
   {
     "revision": "215d55cd25bcb44f0f13",
@@ -808,12 +808,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.6cb08ab16be7e07e1320.js"
   },
   {
-    "revision": "ede0edbd299d3162292cc6ef06e7ebe4",
+    "revision": "fe204d4a2d0e6643891f3d4b017e708f",
     "url": "/js/trader.main.js"
   },
   {
-    "revision": "ea0f81c23d223dcc648b5b73516ea60a",
-    "url": "/js/trader.mt5.07040aff77ac473e16f6.js"
+    "revision": "cdfc26d859a0f27c3e53d8873092ef4a",
+    "url": "/js/trader.mt5.6ecb7935ebd9fc137513.js"
   },
   {
     "revision": "11bd23cb5038a1a57ba673af8b0ec5d6",
