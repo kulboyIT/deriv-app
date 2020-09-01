@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/bot-web-ui.main.css"
   },
   {
-    "revision": "246721533613b40d6dc7",
+    "revision": "79b79f8b2170aed7a5d2",
     "url": "/css/core.account-signup-modal.6309c4647cca82a0b940.css"
   },
   {
@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.b868e08753c07c44ce95.css"
   },
   {
-    "revision": "218ee08b2f6eb18246b1",
+    "revision": "ee7601c28538fc57af0a",
     "url": "/css/core.cashier.f8671941b600698ae39b.css"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "4f2aba4dec18ea52115d",
+    "revision": "c3271a91ed3a7e67f557",
     "url": "/css/core.main.css"
   },
   {
@@ -652,8 +652,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-info.504574de53288291d78e.js"
   },
   {
-    "revision": "246721533613b40d6dc7",
-    "url": "/js/core.account-signup-modal.c7605a4d12d803120d15.js"
+    "revision": "79b79f8b2170aed7a5d2",
+    "url": "/js/core.account-signup-modal.0be5ad24545699f2209c.js"
   },
   {
     "revision": "c02e0c334cdb9d904223",
@@ -668,24 +668,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.816e2cbf875141ca4ee5.js"
   },
   {
-    "revision": "218ee08b2f6eb18246b1",
-    "url": "/js/core.cashier.5731fcb9fb3d43344d54.js"
+    "revision": "ee7601c28538fc57af0a",
+    "url": "/js/core.cashier.b90941b12ec0ecc21023.js"
   },
   {
     "revision": "716ddd0974f0feeae97b",
     "url": "/js/core.complaints-policy.3e233083febf7df6883c.js"
   },
   {
-    "revision": "4f2aba4dec18ea52115d",
-    "url": "/js/core.main.40c644d1fa50e9810327.js"
+    "revision": "c3271a91ed3a7e67f557",
+    "url": "/js/core.main.9911b8e6552b7c467bf8.js"
   },
   {
-    "revision": "5e2e142dc2fe79c7a487",
-    "url": "/js/core.reality-check-modal.8a3aa87490ef0c95e1de.js"
+    "revision": "110f0cced927d75984d7",
+    "url": "/js/core.reality-check-modal.9924b48e67d64da53ac6.js"
   },
   {
-    "revision": "f756817b07c281cad940",
-    "url": "/js/core.reset-password-modal.a7216b0ca062052bab54.js"
+    "revision": "4c280355f829d414d76d",
+    "url": "/js/core.reset-password-modal.7fec28246f7ec35a54c0.js"
   },
   {
     "revision": "cf8e123e21d59d2fb13a",
