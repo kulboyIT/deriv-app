@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "377a10823181a95b286e",
+    "revision": "ef9b16bf1b7eb0e3c7d1",
     "url": "/css/core.main.css"
   },
   {
@@ -160,7 +160,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/smartcharts.css"
   },
   {
-    "revision": "3b212b57320e2caa3a66ea835634e60c",
+    "revision": "bffc58d8acf17e287f016a38915fe217",
     "url": "/css/trader.main.css"
   },
   {
@@ -676,8 +676,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.9177f672106e3e761cf5.js"
   },
   {
-    "revision": "377a10823181a95b286e",
-    "url": "/js/core.main.8dd38aa7ddf2518b2b08.js"
+    "revision": "ef9b16bf1b7eb0e3c7d1",
+    "url": "/js/core.main.b96628d0afe29ea2f670.js"
   },
   {
     "revision": "174a3bbaf7c4deda5846",
@@ -700,8 +700,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.fac22f4e6b8324b92042.js"
   },
   {
-    "revision": "231cd1221fdf3a25fd00",
-    "url": "/js/core.trader.523e8b0a85ad6c93f690.js"
+    "revision": "da648564eb6be3c060e6",
+    "url": "/js/core.trader.5e0257f9d24cf51c5f9f.js"
   },
   {
     "revision": "86abf445c18dc3138ff1",
@@ -812,7 +812,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.6cb08ab16be7e07e1320.js"
   },
   {
-    "revision": "0448ae95809c59b2fbbce8c1dc270b54",
+    "revision": "0d5f6e0b4b532894a1c72c04101c7466",
     "url": "/js/trader.main.js"
   },
   {
@@ -828,8 +828,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.screen-large.a03865349503dde65261.js"
   },
   {
-    "revision": "4e616e4c8119ec4a27d39ef1aa5e2f0a",
-    "url": "/js/trader.screen-large~screen-small.ebe109bfbbe20f28befb.js"
+    "revision": "51fdcf233e23392b2ffa6386933e6518",
+    "url": "/js/trader.screen-large~screen-small.7b106f9cb94571e4fe81.js"
   },
   {
     "revision": "f596187a26f261086a254118fe006441",
