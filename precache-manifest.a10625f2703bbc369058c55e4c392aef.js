@@ -128,7 +128,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/text.js"
   },
   {
-    "revision": "53e608e1a9fabd146f14f77a9beee9f7",
+    "revision": "d2fa40cc6b20af4cc5baf61abad8eaa5",
     "url": "/css/bot-web-ui.main.css"
   },
   {
@@ -180,7 +180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/favicon.ico"
   },
   {
-    "revision": "53e608e1a9fabd146f14f77a9beee9f7",
+    "revision": "d2fa40cc6b20af4cc5baf61abad8eaa5",
     "url": "/js/bot/bot-web-ui.main.css"
   },
   {
