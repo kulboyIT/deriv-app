@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.e9913ea96196b2992d48.js"
   },
   {
-    "revision": "6c4bec750d42e2612d503ee30de326b4",
+    "revision": "88475b6bfef1a700ddd32cfec9139d42",
     "url": "/account/js/account.js"
   },
   {
@@ -112,7 +112,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/proof-of-address-container.js"
   },
   {
-    "revision": "7709ff7f324e877781e7287b7272612d",
+    "revision": "274ffc8c7ce5b8cfa8000ed6d8a6c989",
     "url": "/account/js/proof-of-identity-container.js"
   },
   {
@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/bot-web-ui.main.css"
   },
   {
-    "revision": "465fc13458fbfc3eedf7",
+    "revision": "e528fd1ef9c70a546307",
     "url": "/css/core.account-signup-modal.6309c4647cca82a0b940.css"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "181a3eb82820d6656ace",
+    "revision": "084e76f171c15c45e572",
     "url": "/css/core.main.css"
   },
   {
@@ -164,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/trader.main.css"
   },
   {
-    "revision": "3291c04daa72ab8619a1c3190d343282",
-    "url": "/css/trader.mt5.e1caad0e58878d79ebe4.css"
+    "revision": "4c599cc211163a822c411cf3b23b5427",
+    "url": "/css/trader.mt5.a1f19cc7a401b4514684.css"
   },
   {
     "revision": "b8ac90006bd3b5b8f90cd03e531a724d",
@@ -652,16 +652,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-info.d5bde102209fb143ea58.js"
   },
   {
-    "revision": "465fc13458fbfc3eedf7",
-    "url": "/js/core.account-signup-modal.25b33a4447b41729b2b1.js"
+    "revision": "e528fd1ef9c70a546307",
+    "url": "/js/core.account-signup-modal.ef74ee5076e1abd70015.js"
   },
   {
     "revision": "d8c34810cf62b3773ee3",
     "url": "/js/core.account-types-modal.9253f5fb99942f5f8287.js"
   },
   {
-    "revision": "7574f7140cb5ca4d0a37",
-    "url": "/js/core.account.9eb651cff209128a605b.js"
+    "revision": "0e12450ab6e49e4802d3",
+    "url": "/js/core.account.f93f1700cd12bc4ff4f2.js"
   },
   {
     "revision": "1612781abadece842578",
@@ -676,16 +676,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.3630ab515f1b82eb5200.js"
   },
   {
-    "revision": "181a3eb82820d6656ace",
-    "url": "/js/core.main.26cfc6f276c34eae2f51.js"
+    "revision": "084e76f171c15c45e572",
+    "url": "/js/core.main.b7d4f6c7dfb80e4d0872.js"
   },
   {
     "revision": "feb0586477e1166340ce",
     "url": "/js/core.reality-check-modal.f3e78b9236fe038711e0.js"
   },
   {
-    "revision": "b3a69ec32ec5231dd011",
-    "url": "/js/core.reset-password-modal.691149218ead2310e7bc.js"
+    "revision": "650d1cd8a8cc6a91348d",
+    "url": "/js/core.reset-password-modal.18b5943779a881209f32.js"
   },
   {
     "revision": "981b5d18a36b3aff6afb",
@@ -700,8 +700,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.a7127d68f8144ca69585.js"
   },
   {
-    "revision": "f21c86c0bba30912c96e",
-    "url": "/js/core.trader.b4749877986a3c6bd8dc.js"
+    "revision": "3b9c0ee820916de4eda1",
+    "url": "/js/core.trader.b067414e05467c50b223.js"
   },
   {
     "revision": "8120be154c419e23aac6",
@@ -812,12 +812,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.6cb08ab16be7e07e1320.js"
   },
   {
-    "revision": "38e0cb104ff1c2e639d686314c4340c2",
+    "revision": "78cd0060726de0b7b9715db84674f1ab",
     "url": "/js/trader.main.js"
   },
   {
-    "revision": "327d6eecc2042c99936473415560aebd",
-    "url": "/js/trader.mt5.b1469c5b654215558d96.js"
+    "revision": "f99a2ea4d9f83bc5c0982eef435863d8",
+    "url": "/js/trader.mt5.cf8eee89e6930bc27b94.js"
   },
   {
     "revision": "11a4169c2d34def5ceb978ce1bd9ee46",
