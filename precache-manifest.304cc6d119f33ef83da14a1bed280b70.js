@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a3716a5be590246dfe7e430bd941fad",
+    "revision": "bf7c8c1486da5176be16e839b11894fd",
     "url": "/account/css/account.css"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.b2ce0c0de1bba9375383.js"
   },
   {
-    "revision": "d1b67fe7a52072fbb09801e1e6f33d3a",
+    "revision": "602e40b1febd5d8c660e9063874ea54e",
     "url": "/account/js/account.js"
   },
   {
@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.b868e08753c07c44ce95.css"
   },
   {
-    "revision": "bd723dfe9a8140747169",
+    "revision": "3b6b85a9ffcb3ca571e7",
     "url": "/css/core.cashier.6e728ae8a2f1dd5ffb8b.css"
   },
   {
@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "4ff0af60a8d3bdc5e4ef",
+    "revision": "09fdc8e4301e284f8277",
     "url": "/css/core.main.css"
   },
   {
@@ -660,24 +660,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-types-modal.cc2cfcfee63bcc038241.js"
   },
   {
-    "revision": "77040b154ed23f4dd69b",
-    "url": "/js/core.account.01181f397703d3059657.js"
+    "revision": "a742e5ffd4e31c2014d9",
+    "url": "/js/core.account.182ea64261a9e221f05b.js"
   },
   {
     "revision": "739111d14f9920e0baab",
     "url": "/js/core.bot.133c2dfef82e8ca01621.js"
   },
   {
-    "revision": "bd723dfe9a8140747169",
-    "url": "/js/core.cashier.52de2c576c81a27fe5d3.js"
+    "revision": "3b6b85a9ffcb3ca571e7",
+    "url": "/js/core.cashier.712ea7e7deec361bfd1a.js"
   },
   {
     "revision": "23dd29416e732f2713d4",
     "url": "/js/core.complaints-policy.dc363295e149de425c2b.js"
   },
   {
-    "revision": "4ff0af60a8d3bdc5e4ef",
-    "url": "/js/core.main.215d2fd173e6d405b386.js"
+    "revision": "09fdc8e4301e284f8277",
+    "url": "/js/core.main.e6d831f3f8e2bf69d50f.js"
   },
   {
     "revision": "d382432772824acd615d",
