@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "6171c2bed3f7e6881968",
+    "revision": "09e5b75d7e29f884bab5",
     "url": "/css/core.main.css"
   },
   {
@@ -640,8 +640,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/bot/media/zoom-reset.svg"
   },
   {
-    "revision": "165247f0e6a76a935f05",
-    "url": "/js/core.404.301cf2390c7193b0b37a.js"
+    "revision": "c59d2aca438061b5b0bd",
+    "url": "/js/core.404.4e48719b0ff40f167b3b.js"
   },
   {
     "revision": "34f76bed8ffa7f795249",
@@ -650,6 +650,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "559e7c86ddba58245b07",
     "url": "/js/core.account-signup-modal.5faae260221e8da11a97.js"
+  },
+  {
+    "revision": "6e8dc4e2cae8bf13042f",
+    "url": "/js/core.account-transfer-limit-dialog.a7395922c1cc60b6f3a6.js"
   },
   {
     "revision": "889d1488da85407105dd",
@@ -672,8 +676,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.dc363295e149de425c2b.js"
   },
   {
-    "revision": "6171c2bed3f7e6881968",
-    "url": "/js/core.main.ae339119c5664f8f5106.js"
+    "revision": "09e5b75d7e29f884bab5",
+    "url": "/js/core.main.f944f0bc9b5e0c6eb80a.js"
   },
   {
     "revision": "d382432772824acd615d",
