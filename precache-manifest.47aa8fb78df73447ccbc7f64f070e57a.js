@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "664586cd0c89455bdebd",
+    "revision": "2d1a3d1eb4101a294718",
     "url": "/css/core.main.css"
   },
   {
@@ -640,8 +640,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/bot/media/zoom-reset.svg"
   },
   {
-    "revision": "165247f0e6a76a935f05",
-    "url": "/js/core.404.301cf2390c7193b0b37a.js"
+    "revision": "c59d2aca438061b5b0bd",
+    "url": "/js/core.404.4e48719b0ff40f167b3b.js"
   },
   {
     "revision": "93843e8e7f0f5ea8fa08",
@@ -672,8 +672,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.4f33b900bc807d1d54cc.js"
   },
   {
-    "revision": "664586cd0c89455bdebd",
-    "url": "/js/core.main.dd3412a35ca031c49008.js"
+    "revision": "2d1a3d1eb4101a294718",
+    "url": "/js/core.main.d43ccafbee7bb2735bbd.js"
   },
   {
     "revision": "3876308b2ec9ef6c12e4",
@@ -714,6 +714,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d190c54e9084cad4cf8b",
     "url": "/js/core.vendors~main.448375e3a04eaf80fa5b.js"
+  },
+  {
+    "revision": "d2294bd66f09bd22d1d9",
+    "url": "/js/core.welcome-modal.228484b45fa8367a6808.js"
   },
   {
     "revision": "e0543288c8157aeb3bdd984219c150ee",
@@ -960,6 +964,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/common/logos/platform_logos/ic_platform_deriv_512x512.png"
   },
   {
+    "revision": "d3de1dd75990ffc283952ec5e747d03c",
+    "url": "/public/images/common/welcome-bg-blue.svg"
+  },
+  {
+    "revision": "f4e868a5a4c6bdab25fab2aaa04dbac5",
+    "url": "/public/images/common/welcome-bg-red.svg"
+  },
+  {
     "revision": "effff3cb7c7aa7890a0f613252d40b8c",
     "url": "/public/images/favicons/apple-touch-icon-114.png"
   },
@@ -1020,7 +1032,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/favicons/favicon.ico"
   },
   {
-    "revision": "93c54fe7f1160b626106c229ed87c7f8",
+    "revision": "f7e4edd5dac04495ba5edbc095026480",
     "url": "/public/images/sprite/common.svg"
   },
   {
