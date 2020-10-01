@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.b868e08753c07c44ce95.css"
   },
   {
-    "revision": "b9f6b68797b17d612556",
+    "revision": "10ccf84ef52ab1be037a",
     "url": "/css/core.cashier.6e728ae8a2f1dd5ffb8b.css"
   },
   {
@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "6f0a6f6702e652242afb",
+    "revision": "f4fd4adddaecc75b53bb",
     "url": "/css/core.main.css"
   },
   {
@@ -664,16 +664,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.0e108a9d808ed6e407e3.js"
   },
   {
-    "revision": "b9f6b68797b17d612556",
-    "url": "/js/core.cashier.0e6a480a5b549de332f3.js"
+    "revision": "10ccf84ef52ab1be037a",
+    "url": "/js/core.cashier.b87b241ace5fd4c1ce7e.js"
   },
   {
     "revision": "66e61e3fea8ca92de337",
     "url": "/js/core.complaints-policy.4f33b900bc807d1d54cc.js"
   },
   {
-    "revision": "6f0a6f6702e652242afb",
-    "url": "/js/core.main.9c9bec8d5a073cdffc47.js"
+    "revision": "f4fd4adddaecc75b53bb",
+    "url": "/js/core.main.a38d85fba4addca31fe3.js"
   },
   {
     "revision": "3876308b2ec9ef6c12e4",
@@ -696,8 +696,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.9c7c61852f29740f0324.js"
   },
   {
-    "revision": "fe08e73955a60cb9686e",
-    "url": "/js/core.trader.d9ba4621e849a27efe8a.js"
+    "revision": "c2c8aec3c192d0b84636",
+    "url": "/js/core.trader.38140368d93423b55ba7.js"
   },
   {
     "revision": "b1dc7ca21e6eec89fa35",
@@ -808,7 +808,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.b49cb3a139a0ff136694.js"
   },
   {
-    "revision": "5e29431e708db8493b05dd111855e718",
+    "revision": "5830c85daa9ecd166439660803cc9d61",
     "url": "/js/trader.main.js"
   },
   {
@@ -816,8 +816,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.mt5.3ffbd83497849043059a.js"
   },
   {
-    "revision": "5b16869d9d87c8d44fdf9cea0090dfee",
-    "url": "/js/trader.reports.e5a9fc1fc895f1dab63d.js"
+    "revision": "4b29f9f6e6688a218a5f040195866dfa",
+    "url": "/js/trader.reports.e9df53e6e64c9acb4b70.js"
   },
   {
     "revision": "ed3db90ded9f7d801cc0aa319549371f",
@@ -1020,7 +1020,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/favicons/favicon.ico"
   },
   {
-    "revision": "a55b2f56308398f8e75007563b965590",
+    "revision": "93c54fe7f1160b626106c229ed87c7f8",
     "url": "/public/images/sprite/common.svg"
   },
   {
