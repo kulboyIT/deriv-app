@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.b868e08753c07c44ce95.css"
   },
   {
-    "revision": "b595fc99990dff9a3fdb",
+    "revision": "cfbf9dbf3c495323a8b4",
     "url": "/css/core.cashier.6e728ae8a2f1dd5ffb8b.css"
   },
   {
@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "a246e3e4cacdc86aac7d",
+    "revision": "e7529cd202f50f2686e1",
     "url": "/css/core.main.css"
   },
   {
@@ -664,16 +664,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.d1252e91fa209eb919f3.js"
   },
   {
-    "revision": "b595fc99990dff9a3fdb",
-    "url": "/js/core.cashier.8888a9d7a51c11fb8360.js"
+    "revision": "cfbf9dbf3c495323a8b4",
+    "url": "/js/core.cashier.705ba85b3ec854066669.js"
   },
   {
     "revision": "66e61e3fea8ca92de337",
     "url": "/js/core.complaints-policy.4f33b900bc807d1d54cc.js"
   },
   {
-    "revision": "a246e3e4cacdc86aac7d",
-    "url": "/js/core.main.a39c07e9f3f606b58810.js"
+    "revision": "e7529cd202f50f2686e1",
+    "url": "/js/core.main.4dcbde9da5a1640bce48.js"
   },
   {
     "revision": "3876308b2ec9ef6c12e4",
@@ -696,8 +696,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.9c7c61852f29740f0324.js"
   },
   {
-    "revision": "2cc07e12cd21e54bbff9",
-    "url": "/js/core.trader.bee504c69d28d762b4a5.js"
+    "revision": "3f1e103a3b5f74a4036f",
+    "url": "/js/core.trader.5f5f8cf84c9ce5800bb7.js"
   },
   {
     "revision": "b1dc7ca21e6eec89fa35",
@@ -812,7 +812,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.b49cb3a139a0ff136694.js"
   },
   {
-    "revision": "e7fc2b78fe3acbba5e26303a9a4c0f9a",
+    "revision": "881e6b6e54b76e89177ef24e634cce46",
     "url": "/js/trader.main.js"
   },
   {
@@ -1032,7 +1032,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/favicons/favicon.ico"
   },
   {
-    "revision": "e0833436694c414fc2cb6c1fc65d8797",
+    "revision": "f7e4edd5dac04495ba5edbc095026480",
     "url": "/public/images/sprite/common.svg"
   },
   {
