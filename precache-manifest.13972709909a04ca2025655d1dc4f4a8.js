@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.b2ce0c0de1bba9375383.js"
   },
   {
-    "revision": "a53360c4118ee84336d330f2f50db977",
+    "revision": "cae6b06ea984fda92bb80c4491884084",
     "url": "/account/js/account.js"
   },
   {
@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "11e19e0b5de922bb07e1",
+    "revision": "8231946fcd73a2bc7538",
     "url": "/css/core.main.css"
   },
   {
@@ -660,8 +660,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-types-modal.ee284eb22a7609d19a23.js"
   },
   {
-    "revision": "4ed1c849304dbffa89ef",
-    "url": "/js/core.account.ba23443e402225cda480.js"
+    "revision": "7dccb781edda1a9d3e39",
+    "url": "/js/core.account.f0c7a4edee08510fe6a9.js"
   },
   {
     "revision": "3f15087043d868c9c59a",
@@ -676,8 +676,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.dc363295e149de425c2b.js"
   },
   {
-    "revision": "11e19e0b5de922bb07e1",
-    "url": "/js/core.main.0ac5a40ab79c4f57ff98.js"
+    "revision": "8231946fcd73a2bc7538",
+    "url": "/js/core.main.a02e8c60a25501743c95.js"
   },
   {
     "revision": "d382432772824acd615d",
@@ -700,8 +700,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.fac22f4e6b8324b92042.js"
   },
   {
-    "revision": "6d45b4c88fff4347ce1b",
-    "url": "/js/core.trader.96f50111b7912afb90ca.js"
+    "revision": "a3306c5075f97245ba5a",
+    "url": "/js/core.trader.1e496e3786fa0a853934.js"
   },
   {
     "revision": "b5b315a98b5a085b932c",
@@ -816,7 +816,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.b49cb3a139a0ff136694.js"
   },
   {
-    "revision": "c46e59031041affc2c3382b535f7496c",
+    "revision": "ed4bd904b38499319f4d6607050c7d0b",
     "url": "/js/trader.main.js"
   },
   {
