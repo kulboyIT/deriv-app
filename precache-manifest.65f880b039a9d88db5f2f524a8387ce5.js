@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "5475b2ed17b092d08492",
+    "revision": "6851b711044d5d1658ab",
     "url": "/css/core.main.css"
   },
   {
@@ -156,7 +156,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/smartcharts.css"
   },
   {
-    "revision": "bd32fce8539a801045c59f0d3af568f8",
+    "revision": "58b3eb1438398b0b3ed6a45054e78c5c",
     "url": "/css/trader.main.css"
   },
   {
@@ -676,8 +676,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.00c4e60e7eeb2eaf6477.js"
   },
   {
-    "revision": "5475b2ed17b092d08492",
-    "url": "/js/core.main.6f1efe8dfbdf036b304e.js"
+    "revision": "6851b711044d5d1658ab",
+    "url": "/js/core.main.67a9e88824820b5189d4.js"
   },
   {
     "revision": "b6225d652c57f5bb694c",
@@ -700,8 +700,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.8c492ba972dd97245248.js"
   },
   {
-    "revision": "430e37f759607fff3dca",
-    "url": "/js/core.trader.2a0b77efd09b17f22e34.js"
+    "revision": "21e2a56277f3f9125def",
+    "url": "/js/core.trader.80a525d2a9ccaa98ad94.js"
   },
   {
     "revision": "b0b1c18395e71488d60d",
@@ -816,7 +816,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.b49cb3a139a0ff136694.js"
   },
   {
-    "revision": "d18a3a5d9bfa3c6f74f21dfcb97a1b4e",
+    "revision": "7ccbb28c3411c68cad14b5ab54509517",
     "url": "/js/trader.main.js"
   },
   {
@@ -836,8 +836,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.screen-large.2336ea1794d8f7bb8070.js"
   },
   {
-    "revision": "440a2ad5a78a55c726bb9b699c822716",
-    "url": "/js/trader.screen-large~screen-small.a6298aaf57090955dda6.js"
+    "revision": "ca3e97e01b72721c4861715d7e0c94f6",
+    "url": "/js/trader.screen-large~screen-small.974dda57735e36573d3b.js"
   },
   {
     "revision": "73c0501271223b6fa7b320b75cdf0414",
@@ -1032,7 +1032,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/favicons/favicon.ico"
   },
   {
-    "revision": "e0833436694c414fc2cb6c1fc65d8797",
+    "revision": "b9ebaadfe1263bc43d87b2b80a8c3901",
     "url": "/public/images/sprite/common.svg"
   },
   {
