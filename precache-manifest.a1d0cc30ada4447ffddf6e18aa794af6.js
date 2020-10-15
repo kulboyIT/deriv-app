@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "79e946edbc0a61b6afad",
+    "revision": "3f98106e8bf4a3da037f",
     "url": "/css/core.main.css"
   },
   {
@@ -680,8 +680,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.5e3ad4d46688ec49044e.js"
   },
   {
-    "revision": "79e946edbc0a61b6afad",
-    "url": "/js/core.main.50b4f378e94f24eae9f9.js"
+    "revision": "3f98106e8bf4a3da037f",
+    "url": "/js/core.main.b3477813d06d919b6fee.js"
   },
   {
     "revision": "6450e04c9dd8830d7853",
@@ -1044,7 +1044,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/sprite/currency.svg"
   },
   {
-    "revision": "d966222d931aeb142049c44aa01fec42",
+    "revision": "0b6be63adf18362585e1f439d7d20bae",
     "url": "/public/images/sprite/flag.svg"
   },
   {
