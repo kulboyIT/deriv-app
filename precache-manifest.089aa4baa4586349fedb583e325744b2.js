@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.b868e08753c07c44ce95.css"
   },
   {
-    "revision": "09ff2e9ec1248116561c",
+    "revision": "025d8c724d65fb81279c",
     "url": "/css/core.cashier.ffd3c617e7f52afdc13d.css"
   },
   {
@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.b60b13811d71892e8a56.css"
   },
   {
-    "revision": "8244e1bfd1950ce86989",
+    "revision": "a0a46881437faec64915",
     "url": "/css/core.main.css"
   },
   {
@@ -672,16 +672,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.aa67b363c8b85c975c2b.js"
   },
   {
-    "revision": "09ff2e9ec1248116561c",
-    "url": "/js/core.cashier.7c0d2a92ed71c605f8eb.js"
+    "revision": "025d8c724d65fb81279c",
+    "url": "/js/core.cashier.f2b48cf894097fa271b8.js"
   },
   {
     "revision": "dede2ad32f6f3e06271b",
     "url": "/js/core.complaints-policy.5e3ad4d46688ec49044e.js"
   },
   {
-    "revision": "8244e1bfd1950ce86989",
-    "url": "/js/core.main.dcb823a77680c222860b.js"
+    "revision": "a0a46881437faec64915",
+    "url": "/js/core.main.6b3a508a9dcfe7320ac6.js"
   },
   {
     "revision": "6450e04c9dd8830d7853",
@@ -704,8 +704,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.8c492ba972dd97245248.js"
   },
   {
-    "revision": "8a8127d9fc5616679a19",
-    "url": "/js/core.trader.d978ca53f06b0228e56a.js"
+    "revision": "9582e565180ace4b2a20",
+    "url": "/js/core.trader.07084b306623f82209d8.js"
   },
   {
     "revision": "83f60fef5808627d8e96",
@@ -820,7 +820,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.b49cb3a139a0ff136694.js"
   },
   {
-    "revision": "02a1f189e68c9f45bc6bbccead938cdc",
+    "revision": "fd543d9216a65a7014d0b36b1031f470",
     "url": "/js/trader.main.js"
   },
   {
@@ -840,8 +840,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.screen-large.f41256079741f449fcf3.js"
   },
   {
-    "revision": "8a65f68213037bafce58091de65e2869",
-    "url": "/js/trader.screen-large~screen-small.896e866b75614b4d2a24.js"
+    "revision": "ccf2b129a7eff852089434e552a5f4cb",
+    "url": "/js/trader.screen-large~screen-small.35538914b268edb83272.js"
   },
   {
     "revision": "4c51cd97e1a0b7c0f81749855d796f2d",
