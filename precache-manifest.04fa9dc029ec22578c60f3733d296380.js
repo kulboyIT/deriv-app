@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "e112b32149d1d27daba0",
+    "revision": "d811422101cc13442483",
     "url": "/css/core.main.css"
   },
   {
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.7774fbbd151af9310bd8.js"
   },
   {
-    "revision": "e112b32149d1d27daba0",
-    "url": "/js/core.main.3fdb8b6e3aba90b01a10.js"
+    "revision": "d811422101cc13442483",
+    "url": "/js/core.main.56cb4d2adb18ffde9a56.js"
   },
   {
     "revision": "9c6494e3e7197268a8d4",
@@ -712,8 +712,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.9959d443886ce4c0ce1f.js"
   },
   {
-    "revision": "410a9f08e656a39577cf",
-    "url": "/js/core.trader.8096a054763e8db35996.js"
+    "revision": "fbd4a2a672b55702bff1",
+    "url": "/js/core.trader.71634987cf519bffcfb8.js"
   },
   {
     "revision": "2a5df83a0dd241d1e2e1",
@@ -816,56 +816,56 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/smartcharts/zh_tw-json-a5d28d.smartcharts.js"
   },
   {
-    "revision": "84ac0b45134d8e8a61110feb47228ff2",
-    "url": "/js/trader.404.7ba4451034c811322520.js"
+    "revision": "123f06262dcbe1cdbc16c35ac46c44be",
+    "url": "/js/trader.404.2c16e89bc9f4eabbdb8c.js"
   },
   {
-    "revision": "092324def9ea01007c8684aacbde5a80",
-    "url": "/js/trader.contract.b2b71a3f90f1101978c7.js"
+    "revision": "04ce50b792a529bc33bfe50cf4d41a16",
+    "url": "/js/trader.contract.94dc5d37c310289dc57d.js"
   },
   {
-    "revision": "488911a43d8d9e8f92ab2d40a607c2f5",
-    "url": "/js/trader.error-component.4e1b5b576971c9cc7b9f.js"
+    "revision": "9b5edeafdf72c71e6c13d460b532fe9f",
+    "url": "/js/trader.error-component.8289e9d1a70b83dcb989.js"
   },
   {
-    "revision": "9d555529518315a4a05fa26b40817a94",
+    "revision": "4b152b02a8a035f72e3d3481daeda5a6",
     "url": "/js/trader.main.js"
   },
   {
-    "revision": "e7a8420ecd2afc7d08e6c747b88773cf",
-    "url": "/js/trader.mt5.454cd70ff68a4bd00490.js"
+    "revision": "bf47f604207ef228f7be6bb0d27b27ae",
+    "url": "/js/trader.mt5.c64b8e6a1555272669f0.js"
   },
   {
-    "revision": "8167b6200dea1538cc295f9ed11867ab",
-    "url": "/js/trader.reports.7e3b5da39aa1e72adaf9.js"
+    "revision": "ead4a08413c6ef1a8af448a4d13cf9b5",
+    "url": "/js/trader.reports.1698440c57820f489adc.js"
   },
   {
-    "revision": "5b8dbfc79817bdd8cb23dc0ec737f042",
-    "url": "/js/trader.reports~screen-large~screen-small.2d5c964d188e66e00fe3.js"
+    "revision": "dc5252f0845f467eb022611c2e67a224",
+    "url": "/js/trader.reports~screen-large~screen-small.0ee54508c2917018e187.js"
   },
   {
-    "revision": "0d20a429378ecc417471f972783bda55",
-    "url": "/js/trader.screen-large.c0d2693820cae4813998.js"
+    "revision": "97055ac4be4c725d85c6e5e0f2adc1b2",
+    "url": "/js/trader.screen-large.c4912c06a67efc6a6d0e.js"
   },
   {
-    "revision": "f72ffc26270562d44764ea9b0dcd4e67",
-    "url": "/js/trader.screen-large~screen-small.1810d8180b8b0ed40faf.js"
+    "revision": "25e0fa3cac2e02686c9b202ad982b694",
+    "url": "/js/trader.screen-large~screen-small.45a3c28a019f1db8efdd.js"
   },
   {
-    "revision": "1c3757fc21ac74260613a2c2d7e51d9d",
-    "url": "/js/trader.screen-small.4141c72f0c1f9af38c1c.js"
+    "revision": "7cb1f3785784a9cca206971ebf92b2b3",
+    "url": "/js/trader.screen-small.d45301e2ea009666dfdb.js"
   },
   {
     "revision": "7e9c687e17e47f69a837eb5e860fa9c5",
     "url": "/js/trader.settings-chart.6a254159c584639bab9d.js"
   },
   {
-    "revision": "88f26badbe8f71531350115bed751c69",
-    "url": "/js/trader.trade-modals.41c8629dd73fa680ec95.js"
+    "revision": "b7438513b4e0f26b8820801f207e1805",
+    "url": "/js/trader.trade-modals.e1d3dec8f4fd29b8641e.js"
   },
   {
-    "revision": "b0f6c21d97e87387315d63d8b707a5a5",
-    "url": "/js/trader.two-month-picker.73da13f67be44087f008.js"
+    "revision": "5e4230f7423b113791ea00beeaa3abcd",
+    "url": "/js/trader.two-month-picker.38c2ab58c520bcb6bdd9.js"
   },
   {
     "revision": "487463e31c1e84a481a64e7fd105a0f6",
