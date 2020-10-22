@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "be8f870b40077eb982c4",
+    "revision": "c94c9639cc8f2943a95a",
     "url": "/css/core.main.css"
   },
   {
@@ -156,7 +156,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/smartcharts.css"
   },
   {
-    "revision": "f25afe18105513a1764a9b0d6f712911",
+    "revision": "a2c5dce260d5fdb823765767f1339a2a",
     "url": "/css/trader.main.css"
   },
   {
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.7774fbbd151af9310bd8.js"
   },
   {
-    "revision": "be8f870b40077eb982c4",
-    "url": "/js/core.main.fc9f8ee9df0c8a4752e4.js"
+    "revision": "c94c9639cc8f2943a95a",
+    "url": "/js/core.main.650f8a751750fa1c0956.js"
   },
   {
     "revision": "9c6494e3e7197268a8d4",
@@ -712,8 +712,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.9959d443886ce4c0ce1f.js"
   },
   {
-    "revision": "b3797d86ca37d1deadc7",
-    "url": "/js/core.trader.cae90e4ac140d75d5b43.js"
+    "revision": "410a9f08e656a39577cf",
+    "url": "/js/core.trader.8096a054763e8db35996.js"
   },
   {
     "revision": "2a5df83a0dd241d1e2e1",
@@ -828,7 +828,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.4e1b5b576971c9cc7b9f.js"
   },
   {
-    "revision": "de3def376432adece9a31038a397bc6d",
+    "revision": "9d555529518315a4a05fa26b40817a94",
     "url": "/js/trader.main.js"
   },
   {
@@ -852,8 +852,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.screen-large~screen-small.1810d8180b8b0ed40faf.js"
   },
   {
-    "revision": "5f28c7a140f0d4821017d6648b8fa499",
-    "url": "/js/trader.screen-small.2de24cfc8d93fa2cfe6f.js"
+    "revision": "1c3757fc21ac74260613a2c2d7e51d9d",
+    "url": "/js/trader.screen-small.4141c72f0c1f9af38c1c.js"
   },
   {
     "revision": "7e9c687e17e47f69a837eb5e860fa9c5",
