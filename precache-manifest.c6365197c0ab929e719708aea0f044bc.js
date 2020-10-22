@@ -136,15 +136,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.9c466348a7d1d1dd7c35.css"
   },
   {
-    "revision": "6f1f67dd5bced8c103cf",
-    "url": "/css/core.cashier.b95b92e40ebca8c20eba.css"
+    "revision": "b6616d20e9300bb7018e",
+    "url": "/css/core.cashier.7d3d938e4c6f1a742727.css"
   },
   {
     "revision": "e456b352a6f9fa930b59",
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "342299dd3a76b39098c0",
+    "revision": "1ceac4da714dfbde4b34",
     "url": "/css/core.main.css"
   },
   {
@@ -652,8 +652,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.0.cffaf6a91194c38e4868.js"
   },
   {
-    "revision": "5ba86cab90a74219cb43",
-    "url": "/js/core.404.3baaf6c7e5166e28ae7b.js"
+    "revision": "c91ce8ddede02853a5dc",
+    "url": "/js/core.404.8ecd19b97f2de4db8bd1.js"
   },
   {
     "revision": "3f287af4aaa1b64e9db6",
@@ -662,10 +662,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6945b0e54db57cdfe75f",
     "url": "/js/core.account-signup-modal.def6fe7ea2632a8e5c1e.js"
-  },
-  {
-    "revision": "ceca7eacb55f2c193ce4",
-    "url": "/js/core.account-transfer-limit-dialog.f068cc0f137070d5909b.js"
   },
   {
     "revision": "c2609dd94c7add47402c",
@@ -680,8 +676,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.e5fd456ab2242df9a379.js"
   },
   {
-    "revision": "6f1f67dd5bced8c103cf",
-    "url": "/js/core.cashier.f9d3fe4d4309b945b6f9.js"
+    "revision": "b6616d20e9300bb7018e",
+    "url": "/js/core.cashier.8da0cdb843b7f531c5af.js"
   },
   {
     "revision": "e456b352a6f9fa930b59",
@@ -692,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.bb00867b4e148279a3b2.js"
   },
   {
-    "revision": "342299dd3a76b39098c0",
-    "url": "/js/core.main.9f34ebdb6e4ee93061d1.js"
+    "revision": "1ceac4da714dfbde4b34",
+    "url": "/js/core.main.6a9728dda054412eb4ef.js"
   },
   {
     "revision": "6b43479c2c593ea2de15",
