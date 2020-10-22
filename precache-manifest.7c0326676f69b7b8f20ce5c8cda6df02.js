@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "94b5abdd8ecf0104895f",
+    "revision": "e112b32149d1d27daba0",
     "url": "/css/core.main.css"
   },
   {
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.7774fbbd151af9310bd8.js"
   },
   {
-    "revision": "94b5abdd8ecf0104895f",
-    "url": "/js/core.main.41b1c34c9d06793ac63f.js"
+    "revision": "e112b32149d1d27daba0",
+    "url": "/js/core.main.3fdb8b6e3aba90b01a10.js"
   },
   {
     "revision": "9c6494e3e7197268a8d4",
