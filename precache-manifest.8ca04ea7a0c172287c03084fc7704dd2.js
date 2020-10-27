@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "eed0c3f78fa3d0e151cc",
+    "revision": "34fbe5cfb7259da1b4b0",
     "url": "/css/core.main.css"
   },
   {
@@ -164,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/trader.mt5.055db11384d1ef0b0e51.css"
   },
   {
-    "revision": "a0e50a4063bbce677e76c5a9b4adc004",
-    "url": "/css/trader.reports.3ed4788e2049f292b578.css"
+    "revision": "120a77a1dc4c35c3e1da96709a78cded",
+    "url": "/css/trader.reports.7898d8e1a613f5b3647b.css"
   },
   {
     "revision": "5673878ba1243a85b2b98a0a7402d78f",
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.43d14eae3eb5604b5c3d.js"
   },
   {
-    "revision": "eed0c3f78fa3d0e151cc",
-    "url": "/js/core.main.a73817a120c27eb163a7.js"
+    "revision": "34fbe5cfb7259da1b4b0",
+    "url": "/js/core.main.58fecce86b6a9e410f5e.js"
   },
   {
     "revision": "5a64854e251af1003343",
@@ -712,8 +712,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.1a2d26df837ca72ab8e7.js"
   },
   {
-    "revision": "b605e48b2bae2c736980",
-    "url": "/js/core.trader.262f8172bb1f70018aa4.js"
+    "revision": "6622e7990595810d819f",
+    "url": "/js/core.trader.65a9b4ae7087e211ca07.js"
   },
   {
     "revision": "f611b2939fea8ac8fb44",
@@ -828,7 +828,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.166fc2f68d30855c77c5.js"
   },
   {
-    "revision": "fd1f87f0a1abfb4a3889742959efe3bb",
+    "revision": "660f1ff0fe7c91d8c28a040641c228ec",
     "url": "/js/trader.main.js"
   },
   {
@@ -836,8 +836,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.mt5.ae633266e276ac12f315.js"
   },
   {
-    "revision": "3930c9aa8596a3e3f3719d25406ae18f",
-    "url": "/js/trader.reports.800b46a80e54ef00b04f.js"
+    "revision": "6ded17b0c4203ba64ef8dc87feb3b51d",
+    "url": "/js/trader.reports.f14084688c21100ce2b2.js"
   },
   {
     "revision": "d9eb3b4ae9d3a10b3a30b92632bfec2c",
