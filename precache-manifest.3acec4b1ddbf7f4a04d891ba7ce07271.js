@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "767cf62d8ae1467875ae",
+    "revision": "62007b601ff50999e256",
     "url": "/css/core.main.css"
   },
   {
@@ -156,7 +156,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/smartcharts.css"
   },
   {
-    "revision": "dbfd3d183d6d48213929925f0a43f827",
+    "revision": "1ba1dc6b05ccf1d04ad11127bb6aa387",
     "url": "/css/trader.main.css"
   },
   {
@@ -688,7 +688,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.43d14eae3eb5604b5c3d.js"
   },
   {
-    "revision": "767cf62d8ae1467875ae",
+    "revision": "62007b601ff50999e256",
     "url": "/js/core.main.ca59f460a281163198e1.js"
   },
   {
