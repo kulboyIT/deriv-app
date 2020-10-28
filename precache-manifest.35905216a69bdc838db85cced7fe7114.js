@@ -128,27 +128,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/bot-web-ui.main.css"
   },
   {
-    "revision": "975a91bbb6fc47f583b0",
+    "revision": "bacc9ed6b2015490ce63",
     "url": "/css/core.account-signup-modal.6441eec2d4bc821a88e4.css"
   },
   {
-    "revision": "75bf0a5c4b811cdb3bf5",
+    "revision": "55a0551425183e86d387",
     "url": "/css/core.account-types-modal.9c466348a7d1d1dd7c35.css"
   },
   {
-    "revision": "dddd734f5da074a6045d",
+    "revision": "d4908837c8913e487c24",
     "url": "/css/core.cashier.9ab884f12fe4cce5be2f.css"
   },
   {
-    "revision": "635f9f9a62074f05226b",
+    "revision": "8bd375624d7e860f648e",
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "3a75cfad1596fee38e26",
+    "revision": "2cdc91fa88c6ce5d2b34",
     "url": "/css/core.main.css"
   },
   {
-    "revision": "3e49101ff595e0929b0c",
+    "revision": "9fd22350a2d23778dae1",
     "url": "/css/core.set-residence-modal.37287527f5f807b1eed8.css"
   },
   {
@@ -656,16 +656,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.404.a8e092aa5af808053127.js"
   },
   {
-    "revision": "1f718d7035bdb480004f",
-    "url": "/js/core.account-info.b9c2fd1d6f802fe15ce0.js"
+    "revision": "a4f70577badff8d3992f",
+    "url": "/js/core.account-info.dee293efa6718de12fad.js"
   },
   {
-    "revision": "975a91bbb6fc47f583b0",
-    "url": "/js/core.account-signup-modal.5086e9bf2debe5efb23c.js"
+    "revision": "bacc9ed6b2015490ce63",
+    "url": "/js/core.account-signup-modal.7550a3fa44f3a6463c2a.js"
   },
   {
-    "revision": "75bf0a5c4b811cdb3bf5",
-    "url": "/js/core.account-types-modal.5a3a207068dfd18214cd.js"
+    "revision": "55a0551425183e86d387",
+    "url": "/js/core.account-types-modal.991192a3af60cac9641b.js"
   },
   {
     "revision": "5185e38e280c37ffd91e",
@@ -676,44 +676,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.ba0e4e452e067c7326f4.js"
   },
   {
-    "revision": "dddd734f5da074a6045d",
-    "url": "/js/core.cashier.39d92b01768a252699ec.js"
+    "revision": "d4908837c8913e487c24",
+    "url": "/js/core.cashier.307b65162c45ebde43ff.js"
   },
   {
-    "revision": "635f9f9a62074f05226b",
-    "url": "/js/core.complaints-policy.8277aeae92aa43849bdc.js"
+    "revision": "8bd375624d7e860f648e",
+    "url": "/js/core.complaints-policy.712129096e8dc9195541.js"
   },
   {
     "revision": "25fd12f910dc1b98bf24",
     "url": "/js/core.loadjs.43d14eae3eb5604b5c3d.js"
   },
   {
-    "revision": "3a75cfad1596fee38e26",
-    "url": "/js/core.main.58fecce86b6a9e410f5e.js"
+    "revision": "2cdc91fa88c6ce5d2b34",
+    "url": "/js/core.main.072071e2bb4febb5624a.js"
   },
   {
-    "revision": "5a64854e251af1003343",
-    "url": "/js/core.reality-check-modal.f3f74b6f83cd2b0d56fd.js"
+    "revision": "2ddf733d65db816b5986",
+    "url": "/js/core.reality-check-modal.ee688d7bc31b60c38c86.js"
   },
   {
-    "revision": "89e4c1937463654aaf6c",
-    "url": "/js/core.reset-password-modal.f3c02002ac1c33e34296.js"
+    "revision": "ef9b24fa5bd0ac7d1bd7",
+    "url": "/js/core.reset-password-modal.21736d6ff6c078be0689.js"
   },
   {
-    "revision": "3e49101ff595e0929b0c",
-    "url": "/js/core.set-residence-modal.42aad05342d7178b0a3d.js"
+    "revision": "9fd22350a2d23778dae1",
+    "url": "/js/core.set-residence-modal.d0cafedce698c5b6d0ed.js"
   },
   {
-    "revision": "ce68fcf992b4b95ec803",
-    "url": "/js/core.settings-language.8b88118a9e53c4a92dea.js"
+    "revision": "8352578de6f17349d77c",
+    "url": "/js/core.settings-language.f2aa03115ddd08579e28.js"
   },
   {
-    "revision": "87bc3b2763fdbdb48a59",
-    "url": "/js/core.settings-theme.1a2d26df837ca72ab8e7.js"
+    "revision": "c49ccfc51e17ecf6762d",
+    "url": "/js/core.settings-theme.962b0e98d615cace2e65.js"
   },
   {
-    "revision": "6622e7990595810d819f",
-    "url": "/js/core.trader.65a9b4ae7087e211ca07.js"
+    "revision": "46890ae57a2a048c6ef5",
+    "url": "/js/core.trader.f0d1c7a9038af8f70df4.js"
   },
   {
     "revision": "f611b2939fea8ac8fb44",
@@ -728,12 +728,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.vendors~cashier.75f78ac6646e7c8be59c.js"
   },
   {
-    "revision": "22dca11c41f126ff10d6",
-    "url": "/js/core.vendors~main.1e361a24179c1d50e88c.js"
+    "revision": "3481e6d015955a0051bb",
+    "url": "/js/core.vendors~main.9247ec2b71384af08ea6.js"
   },
   {
-    "revision": "edfe55bb1460e16c0818",
-    "url": "/js/core.welcome-modal.577e93eea9016f0a7f90.js"
+    "revision": "630252aa63289908ba5d",
+    "url": "/js/core.welcome-modal.5139d03f098c78df3cce.js"
   },
   {
     "revision": "e0543288c8157aeb3bdd984219c150ee",
@@ -828,12 +828,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.166fc2f68d30855c77c5.js"
   },
   {
-    "revision": "660f1ff0fe7c91d8c28a040641c228ec",
+    "revision": "69a0ab25131b3ef0ef9a463b1d7bc0fb",
     "url": "/js/trader.main.js"
   },
   {
-    "revision": "9da3eb363a471f3ea209cb575e2a29b4",
-    "url": "/js/trader.mt5.ae633266e276ac12f315.js"
+    "revision": "6e07cb40c699f9a6e1feebeec32ff63f",
+    "url": "/js/trader.mt5.2ab6671176f363e7e4da.js"
   },
   {
     "revision": "6ded17b0c4203ba64ef8dc87feb3b51d",
@@ -844,8 +844,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.screen-large.4b7fe5ba809700120d9e.js"
   },
   {
-    "revision": "0f69acdbd9c9645f5f3099d699a6c3f0",
-    "url": "/js/trader.screen-large~screen-small.bc5ea088954e7bfdb6e8.js"
+    "revision": "1e83f693ada41255842e6b893781f5a7",
+    "url": "/js/trader.screen-large~screen-small.a8354f5e1a6e020447fb.js"
   },
   {
     "revision": "730aee91a45a2e3c10a3618cccb7e6f9",
