@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.e986f3b57fc0bef4e261.js"
   },
   {
-    "revision": "3402c068714ce7500c680aa563134c06",
+    "revision": "b843c145d55f0cf983fa84a5fa79676b",
     "url": "/account/js/account.js"
   },
   {
@@ -104,11 +104,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poi-verified.js"
   },
   {
-    "revision": "08f318dd00d565d77d6fba76bc556541",
+    "revision": "ea885262ce1c5cf814703cccc579aeb9",
     "url": "/account/js/proof-of-address-container.js"
   },
   {
-    "revision": "488bf85251f98fbbcf89f34df4040782",
+    "revision": "7a4cf97587962f01a7c828033c40a785",
     "url": "/account/js/proof-of-identity-container.js"
   },
   {
@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "2b617a4a7bab3a4913c7",
+    "revision": "d393df1aaf4205e5f034",
     "url": "/css/core.main.css"
   },
   {
@@ -668,8 +668,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-types-modal.991192a3af60cac9641b.js"
   },
   {
-    "revision": "5185e38e280c37ffd91e",
-    "url": "/js/core.account.ddba2cc20179b1b22690.js"
+    "revision": "a89595a35ef4402c8171",
+    "url": "/js/core.account.65f4dc9260bfb178c1c1.js"
   },
   {
     "revision": "9f06b8a8f26d76c539ca",
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.43d14eae3eb5604b5c3d.js"
   },
   {
-    "revision": "2b617a4a7bab3a4913c7",
-    "url": "/js/core.main.95f149b463f002bd7dec.js"
+    "revision": "d393df1aaf4205e5f034",
+    "url": "/js/core.main.c86b88335a32961fe440.js"
   },
   {
     "revision": "2ddf733d65db816b5986",
@@ -712,8 +712,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.962b0e98d615cace2e65.js"
   },
   {
-    "revision": "46890ae57a2a048c6ef5",
-    "url": "/js/core.trader.f0d1c7a9038af8f70df4.js"
+    "revision": "41052a2d9bd2e94b3c26",
+    "url": "/js/core.trader.f3494adf8fa7ddebe32c.js"
   },
   {
     "revision": "f611b2939fea8ac8fb44",
