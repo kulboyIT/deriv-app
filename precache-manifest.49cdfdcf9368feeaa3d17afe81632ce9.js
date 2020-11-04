@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "e7bdc059a4a52aa4e8cc",
+    "revision": "5d500885b261b0096f78",
     "url": "/css/core.main.css"
   },
   {
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.21fa32c32b2881c4d2d9.js"
   },
   {
-    "revision": "e7bdc059a4a52aa4e8cc",
-    "url": "/js/core.main.3eca48c7a05851dd8548.js"
+    "revision": "5d500885b261b0096f78",
+    "url": "/js/core.main.feefc7cfc55a079a2b57.js"
   },
   {
     "revision": "e10b0236f911b93c80bc",
@@ -720,8 +720,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.vendors~bot.9b28d1cc2957fb1c8004.js"
   },
   {
-    "revision": "f98834e57118e0df94fe",
-    "url": "/js/core.vendors~bot~trader.d1d1a47bda5d641853fd.js"
+    "revision": "cef14547b390337a62aa",
+    "url": "/js/core.vendors~bot~trader.0b3f44037bca33fc92a7.js"
   },
   {
     "revision": "7ef51c9a02aa19d6310d",
