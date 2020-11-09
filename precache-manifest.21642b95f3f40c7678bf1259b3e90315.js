@@ -124,7 +124,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/text.js"
   },
   {
-    "revision": "efd61470e3e90924cafda3b98c4d4944",
+    "revision": "65252d74d316310d0957b9ead1e53aac",
     "url": "/css/bot-web-ui.main.css"
   },
   {
@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "95aefa7e62eb415e24db",
+    "revision": "57602bb611d6cce18131",
     "url": "/css/core.main.css"
   },
   {
@@ -176,7 +176,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/favicon.ico"
   },
   {
-    "revision": "efd61470e3e90924cafda3b98c4d4944",
+    "revision": "65252d74d316310d0957b9ead1e53aac",
     "url": "/js/bot/bot-web-ui.main.css"
   },
   {
@@ -688,7 +688,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.21fa32c32b2881c4d2d9.js"
   },
   {
-    "revision": "95aefa7e62eb415e24db",
+    "revision": "57602bb611d6cce18131",
     "url": "/js/core.main.3b16549c668476b9ebc6.js"
   },
   {
