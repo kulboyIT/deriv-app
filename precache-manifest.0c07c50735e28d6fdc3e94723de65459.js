@@ -128,27 +128,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/bot-web-ui.main.css"
   },
   {
-    "revision": "22f32b8b9ec24477c0b8",
+    "revision": "41bc24014cc8df331644",
     "url": "/css/core.account-signup-modal.6441eec2d4bc821a88e4.css"
   },
   {
-    "revision": "237d8281971d925b03a2",
+    "revision": "1e3d2951a82c3e5e3c4e",
     "url": "/css/core.account-types-modal.9c466348a7d1d1dd7c35.css"
   },
   {
-    "revision": "e512e02107c95d6a2b65",
+    "revision": "64f2d8be9539067d140e",
     "url": "/css/core.cashier.034b6f3557ffd0a43b4e.css"
   },
   {
-    "revision": "02949bf8b6ebde9569f1",
+    "revision": "32c35017c10a430f4e20",
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "6542d7840ae4cdd28317",
+    "revision": "603cfdd9b0593ea9b98b",
     "url": "/css/core.main.css"
   },
   {
-    "revision": "c973493d34c7e8d04ccd",
+    "revision": "0fd6936fede7932593c2",
     "url": "/css/core.set-residence-modal.37287527f5f807b1eed8.css"
   },
   {
@@ -656,16 +656,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.404.1046072d7ce091edd43c.js"
   },
   {
-    "revision": "ebde217e47d435ba05e0",
-    "url": "/js/core.account-info.4261c54d20295ea090a0.js"
+    "revision": "8749a5e7aad7123af32e",
+    "url": "/js/core.account-info.c56b4c7ae3ec5033c47d.js"
   },
   {
-    "revision": "22f32b8b9ec24477c0b8",
-    "url": "/js/core.account-signup-modal.ab84ff1d1d3a75f5112e.js"
+    "revision": "41bc24014cc8df331644",
+    "url": "/js/core.account-signup-modal.2ed571f7194070086d6a.js"
   },
   {
-    "revision": "237d8281971d925b03a2",
-    "url": "/js/core.account-types-modal.07a397d48b0b709d13ab.js"
+    "revision": "1e3d2951a82c3e5e3c4e",
+    "url": "/js/core.account-types-modal.9b7acc35167a748393f9.js"
   },
   {
     "revision": "5c5c47eac2396bb7d19c",
@@ -676,40 +676,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.dfe35c13a536eff46d34.js"
   },
   {
-    "revision": "e512e02107c95d6a2b65",
-    "url": "/js/core.cashier.9a37e629c6a0ecf01f7e.js"
+    "revision": "64f2d8be9539067d140e",
+    "url": "/js/core.cashier.47c37a8d2f9030120e42.js"
   },
   {
-    "revision": "02949bf8b6ebde9569f1",
-    "url": "/js/core.complaints-policy.252f841d49d56d973b88.js"
+    "revision": "32c35017c10a430f4e20",
+    "url": "/js/core.complaints-policy.8017f8d27cdcd4854c82.js"
   },
   {
     "revision": "b0f2eadf0f0ae9bcf4a7",
     "url": "/js/core.loadjs.21fa32c32b2881c4d2d9.js"
   },
   {
-    "revision": "6542d7840ae4cdd28317",
-    "url": "/js/core.main.e227a6a65066c6d2a5a1.js"
+    "revision": "603cfdd9b0593ea9b98b",
+    "url": "/js/core.main.3d1c56dc099754d54c55.js"
   },
   {
-    "revision": "e10b0236f911b93c80bc",
-    "url": "/js/core.reality-check-modal.dbe14005bc9b72dfb718.js"
+    "revision": "5e489f7658b2dceb35f7",
+    "url": "/js/core.reality-check-modal.29c857b3504b58bf7971.js"
   },
   {
-    "revision": "e85bee0ca8bad17b9f8a",
-    "url": "/js/core.reset-password-modal.f2ceddbb7af8bf23c4dd.js"
+    "revision": "6a494a09b06e96f922c7",
+    "url": "/js/core.reset-password-modal.ac9a34dda27b90445092.js"
   },
   {
-    "revision": "c973493d34c7e8d04ccd",
-    "url": "/js/core.set-residence-modal.299ff434c48f9be6b72b.js"
+    "revision": "0fd6936fede7932593c2",
+    "url": "/js/core.set-residence-modal.b7e348d735a42ceb7ad4.js"
   },
   {
     "revision": "138277f06db3fa113491",
     "url": "/js/core.settings-language.05a0584c983e111566ec.js"
   },
   {
-    "revision": "5ffd657e08606f07de31",
-    "url": "/js/core.settings-theme.64e8abc40f7bfab0dc4e.js"
+    "revision": "c8a0dc535de9988d3e30",
+    "url": "/js/core.settings-theme.19dce02ef9a2c82ed969.js"
   },
   {
     "revision": "00ffb1b2cb02af88f95a",
@@ -732,8 +732,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.vendors~main.86a7e04d62d7d63c6551.js"
   },
   {
-    "revision": "dd5d4ed5fc9cb30e7864",
-    "url": "/js/core.welcome-modal.c002abdab02fb27ac20d.js"
+    "revision": "37a65ff56a33c0ef96ee",
+    "url": "/js/core.welcome-modal.3587a975cf2853211c16.js"
   },
   {
     "revision": "e0543288c8157aeb3bdd984219c150ee",
@@ -1040,7 +1040,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/favicons/favicon.ico"
   },
   {
-    "revision": "0099297dd22973d966714e6dc0d05698",
+    "revision": "6687339bd9d92d429bffb4ab0722d9aa",
     "url": "/public/images/sprite/common.svg"
   },
   {
