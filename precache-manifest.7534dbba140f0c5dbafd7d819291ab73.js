@@ -136,15 +136,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.9c466348a7d1d1dd7c35.css"
   },
   {
-    "revision": "3b4979ef6244fac4a1b1",
-    "url": "/css/core.cashier.034b6f3557ffd0a43b4e.css"
+    "revision": "a62b95a22c4972f8cb09",
+    "url": "/css/core.cashier.e866b6a82bec51e4edaa.css"
   },
   {
     "revision": "23b3acb9f2f61bf83d3f",
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "7da57eca72de0b5fc877",
+    "revision": "7bfbab1bf371307cf123",
     "url": "/css/core.main.css"
   },
   {
@@ -656,8 +656,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.404.7b2983882650f4521c46.js"
   },
   {
-    "revision": "b1196c80a3f37c9f6807",
-    "url": "/js/core.account-info.f42c6cd6846aeb1759bc.js"
+    "revision": "0377f4dec65544e4f5c3",
+    "url": "/js/core.account-info.555192530c17197e34f8.js"
   },
   {
     "revision": "33f4b9c7c6910d20a848",
@@ -676,8 +676,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.34c61811b38447a68c2e.js"
   },
   {
-    "revision": "3b4979ef6244fac4a1b1",
-    "url": "/js/core.cashier.e8099ed99ab0088ff554.js"
+    "revision": "a62b95a22c4972f8cb09",
+    "url": "/js/core.cashier.092233da2492fbd17667.js"
   },
   {
     "revision": "23b3acb9f2f61bf83d3f",
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.d6279278b5b0cad89dfa.js"
   },
   {
-    "revision": "7da57eca72de0b5fc877",
-    "url": "/js/core.main.d0713d1ea67bff6554fd.js"
+    "revision": "7bfbab1bf371307cf123",
+    "url": "/js/core.main.0f8b8e185ad78149ceba.js"
   },
   {
     "revision": "ed974e6ce3ddbe090ebc",
@@ -704,8 +704,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.set-residence-modal.fc511c787a6cfb4762c0.js"
   },
   {
-    "revision": "a85f24e6d053713c2e13",
-    "url": "/js/core.settings-language.6c114a4b7ff2505e32b6.js"
+    "revision": "a7a7a8a3c1d3020bce0a",
+    "url": "/js/core.settings-language.a458eaec03df8fcd85e6.js"
   },
   {
     "revision": "1a965685cabf3aa836d4",
