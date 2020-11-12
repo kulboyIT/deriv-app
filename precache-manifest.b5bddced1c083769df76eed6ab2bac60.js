@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.9c466348a7d1d1dd7c35.css"
   },
   {
-    "revision": "996dc28e247db4d4dc24",
+    "revision": "1cf87fe264f6d892254e",
     "url": "/css/core.cashier.034b6f3557ffd0a43b4e.css"
   },
   {
@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "0c9f9e9ca4db4f01980d",
+    "revision": "71810799d6d910905f56",
     "url": "/css/core.main.css"
   },
   {
@@ -676,8 +676,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.33e634d8791b37e8c198.js"
   },
   {
-    "revision": "996dc28e247db4d4dc24",
-    "url": "/js/core.cashier.5ae80c8168d32f0825f6.js"
+    "revision": "1cf87fe264f6d892254e",
+    "url": "/js/core.cashier.79c0357157ec6af074ba.js"
   },
   {
     "revision": "23b3acb9f2f61bf83d3f",
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.d6279278b5b0cad89dfa.js"
   },
   {
-    "revision": "0c9f9e9ca4db4f01980d",
-    "url": "/js/core.main.36e2c734b596121da2c0.js"
+    "revision": "71810799d6d910905f56",
+    "url": "/js/core.main.e2bbcdbd07e335527565.js"
   },
   {
     "revision": "ed974e6ce3ddbe090ebc",
@@ -712,8 +712,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.3a6dea4f898ce53c6c1a.js"
   },
   {
-    "revision": "2931ef055faacc693466",
-    "url": "/js/core.trader.86e261fd579f5ff1a834.js"
+    "revision": "083ae36689ce3bf36e1b",
+    "url": "/js/core.trader.38a410adf069dbce4e3a.js"
   },
   {
     "revision": "8e5a7ab9f6357e533e0b",
@@ -828,7 +828,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.007bc01fdf4aaebcc6c9.js"
   },
   {
-    "revision": "23391fe0f25404760ff6217c5e7a48b8",
+    "revision": "c14cfd85473dce30b9a7e1812ba8a089",
     "url": "/js/trader.main.js"
   },
   {
