@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "18d563195991f144a200",
+    "revision": "affdd09ba13932ba2f82",
     "url": "/css/core.main.css"
   },
   {
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.d3608209dea83630d13b.js"
   },
   {
-    "revision": "18d563195991f144a200",
-    "url": "/js/core.main.048b2a39b54cb481e2c7.js"
+    "revision": "affdd09ba13932ba2f82",
+    "url": "/js/core.main.74d4a9628c2019a5e7e0.js"
   },
   {
     "revision": "8e67f741feabdc9afab8",
@@ -964,10 +964,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/common/404.png"
   },
   {
-    "revision": "efbd723ab548be783bb6411d18cf168a",
-    "url": "/public/images/common/dp2p_banner.png"
-  },
-  {
     "revision": "8b90a2d122bd63b19b2987d8fca2c75d",
     "url": "/public/images/common/logos/platform_logos/ic_platform_deriv_192x192.png"
   },
@@ -1044,7 +1040,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/favicons/favicon.ico"
   },
   {
-    "revision": "15e7c68ce0411a6918b5bb362f4c5937",
+    "revision": "69b8141b51e008b958668222af807767",
     "url": "/public/images/sprite/common.svg"
   },
   {
