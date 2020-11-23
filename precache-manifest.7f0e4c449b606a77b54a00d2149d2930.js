@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "9be06b24e5d7edf94aea",
+    "revision": "df73d3dd6734879b2596",
     "url": "/css/core.main.css"
   },
   {
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.d3608209dea83630d13b.js"
   },
   {
-    "revision": "9be06b24e5d7edf94aea",
-    "url": "/js/core.main.721b86294067f06438fe.js"
+    "revision": "df73d3dd6734879b2596",
+    "url": "/js/core.main.2c51c0f79463cfb89425.js"
   },
   {
     "revision": "d1e37623995b94671c1d",
@@ -1040,7 +1040,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/favicons/favicon.ico"
   },
   {
-    "revision": "69b8141b51e008b958668222af807767",
+    "revision": "6687339bd9d92d429bffb4ab0722d9aa",
     "url": "/public/images/sprite/common.svg"
   },
   {
