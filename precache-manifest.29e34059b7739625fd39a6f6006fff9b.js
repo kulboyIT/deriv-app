@@ -136,15 +136,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.9fc512464f26e3e15670.css"
   },
   {
-    "revision": "28f74a78be677aeec38e",
-    "url": "/css/core.cashier.3366cf25ee78c12c95d9.css"
+    "revision": "9126a8792945f698cfd4",
+    "url": "/css/core.cashier.d91726e839f0cfcb892b.css"
   },
   {
     "revision": "70b3081fe8cb653b22d4",
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "affdd09ba13932ba2f82",
+    "revision": "ad8fa1cb76e425fb1ec1",
     "url": "/css/core.main.css"
   },
   {
@@ -676,8 +676,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.e9e9f062a1497259689d.js"
   },
   {
-    "revision": "28f74a78be677aeec38e",
-    "url": "/js/core.cashier.8f64f26b160d061bd4c1.js"
+    "revision": "9126a8792945f698cfd4",
+    "url": "/js/core.cashier.7fcd1e60034e6a719454.js"
   },
   {
     "revision": "70b3081fe8cb653b22d4",
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.d3608209dea83630d13b.js"
   },
   {
-    "revision": "affdd09ba13932ba2f82",
-    "url": "/js/core.main.74d4a9628c2019a5e7e0.js"
+    "revision": "ad8fa1cb76e425fb1ec1",
+    "url": "/js/core.main.ce35c55e2e3c550109ee.js"
   },
   {
     "revision": "8e67f741feabdc9afab8",
@@ -964,6 +964,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/common/404.png"
   },
   {
+    "revision": "efbd723ab548be783bb6411d18cf168a",
+    "url": "/public/images/common/dp2p_banner.png"
+  },
+  {
     "revision": "8b90a2d122bd63b19b2987d8fca2c75d",
     "url": "/public/images/common/logos/platform_logos/ic_platform_deriv_192x192.png"
   },
@@ -1040,7 +1044,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/favicons/favicon.ico"
   },
   {
-    "revision": "69b8141b51e008b958668222af807767",
+    "revision": "15e7c68ce0411a6918b5bb362f4c5937",
     "url": "/public/images/sprite/common.svg"
   },
   {
