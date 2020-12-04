@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.f319263dd1407bcff9c7.js"
   },
   {
-    "revision": "6b8df2b109aa84686b722762fcfbe9c3",
+    "revision": "6594fcd555eb020ee4d3c37954103b82",
     "url": "/account/js/account.js"
   },
   {
@@ -108,7 +108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/proof-of-address-container.js"
   },
   {
-    "revision": "658173fc5ed44a72808653bc5685d166",
+    "revision": "92a0042edae0f52b17073d4c0ee47904",
     "url": "/account/js/proof-of-identity-container.js"
   },
   {
@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "dbe5d062aa7ddd675ca0",
+    "revision": "9ad0688ee15367d03440",
     "url": "/css/core.main.css"
   },
   {
@@ -668,8 +668,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-types-modal.506f9f8590216e8f53f8.js"
   },
   {
-    "revision": "fe097cb194823309363b",
-    "url": "/js/core.account.35e80fe974cb16f4c781.js"
+    "revision": "f3776a7c3b8e65fef03e",
+    "url": "/js/core.account.ce15a054f0c67245fca9.js"
   },
   {
     "revision": "852e94ac50e82c5657d3",
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.d3608209dea83630d13b.js"
   },
   {
-    "revision": "dbe5d062aa7ddd675ca0",
-    "url": "/js/core.main.dd90bf6cbf09af49031d.js"
+    "revision": "9ad0688ee15367d03440",
+    "url": "/js/core.main.e1560c457d61b86b95ee.js"
   },
   {
     "revision": "24eec35f511bc02bd281",
@@ -712,8 +712,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.dec6a661eb08492991c0.js"
   },
   {
-    "revision": "b0d94850c040e394470c",
-    "url": "/js/core.trader.2cd80bae9339c4125bb4.js"
+    "revision": "316bc32700bada828075",
+    "url": "/js/core.trader.fe30154d9ff40e1961fe.js"
   },
   {
     "revision": "bb2dd8464e1c43d2d53e",
