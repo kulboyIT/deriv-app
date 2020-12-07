@@ -224,7 +224,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/text.js.LICENSE.txt"
   },
   {
-    "revision": "1e3d3185eb3441d91e7663970ec157c7",
+    "revision": "8e97f695f0927045205d4d8909d961b4",
     "url": "/css/bot-web-ui.main.css"
   },
   {
@@ -276,7 +276,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/favicon.ico"
   },
   {
-    "revision": "1e3d3185eb3441d91e7663970ec157c7",
+    "revision": "8e97f695f0927045205d4d8909d961b4",
     "url": "/js/bot/bot-web-ui.main.css"
   },
   {
