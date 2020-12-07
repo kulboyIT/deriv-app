@@ -244,7 +244,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "9a38d7131d2f709411e7",
+    "revision": "178ac7f253e5c18995f5",
     "url": "/css/core.main.css"
   },
   {
@@ -792,16 +792,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.4e7cf0a060b24c3d3531.js"
   },
   {
-    "revision": "9a38d7131d2f709411e7",
-    "url": "/js/core.main.bdd19a06bb08aa6a3d61.js"
+    "revision": "178ac7f253e5c18995f5",
+    "url": "/js/core.main.a8e0814fd70bfd92a4ec.js"
   },
   {
     "revision": "1ab2380d30f6506b7d4e",
     "url": "/js/core.reality-check-modal.7b2630f8ae2719359320.js"
   },
   {
-    "revision": "1abd77e24f42f24ebfdc",
-    "url": "/js/core.reset-password-modal.5bc5eacd592bb1c75015.js"
+    "revision": "ea7e2323058c8d34fb7d",
+    "url": "/js/core.reset-password-modal.6ebd300f155c6485d6f8.js"
   },
   {
     "revision": "dc4abd17d78ed8223ff7",
