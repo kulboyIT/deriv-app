@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ebba7c5ac790664940ce8ae99ac06a22",
+    "revision": "ec0288206e66d911bf73a775981be782",
     "url": "/account/css/account.css"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.deb81d0e6d5b27b009f1.js"
   },
   {
-    "revision": "11230a27ff48ee1a3d958cf3c5d23dc7",
+    "revision": "2f27e92aa3ad8641e3f1b7b6eb7dff81",
     "url": "/account/js/account.js"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.js.LICENSE.txt"
   },
   {
-    "revision": "a9801e98f7e9cf425cc47739902b4df5",
+    "revision": "a0666e5f52beb0588ae3a34fcd43ee27",
     "url": "/account/js/demo-message.js"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/file-uploader-container.js.LICENSE.txt"
   },
   {
-    "revision": "845999831194fd1c3edb2ce305224ded",
+    "revision": "042c563fb118aecfde84640cbe5894f8",
     "url": "/account/js/financial-assessment.js"
   },
   {
@@ -56,7 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/form-footer.js"
   },
   {
-    "revision": "92c327476e1bda2d089676cc83c4b452",
+    "revision": "14c776d50971a03def5d57b8e3ea6bcd",
     "url": "/account/js/form-sub-header.js"
   },
   {
@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/form-sub-header.js.LICENSE.txt"
   },
   {
-    "revision": "b9ed218cfda31ef946fac4b37ce708c1",
+    "revision": "bd8a0e638ed6c3b853b812881704ba32",
     "url": "/account/js/icon-message-content.js"
   },
   {
@@ -72,7 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/icon-message-content.js.LICENSE.txt"
   },
   {
-    "revision": "27fb859e699154d7cdfa9e1a5ba46804",
+    "revision": "6af4a6ef76bfccca0dfd8d1b06ab7b4b",
     "url": "/account/js/leave-confirm.js"
   },
   {
@@ -80,7 +80,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/leave-confirm.js.LICENSE.txt"
   },
   {
-    "revision": "f9cd3c11351e3509b76769138f8d786a",
+    "revision": "52ff3bac4b9000bdeb49df1d9163ce63",
     "url": "/account/js/load-error-message.js"
   },
   {
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/load-error-message.js.LICENSE.txt"
   },
   {
-    "revision": "bbf3334baf6d436a0f410c6e3dbbad05",
+    "revision": "fc3898e205d554a65082192f3fec0621",
     "url": "/account/js/poa-expired.js"
   },
   {
@@ -96,7 +96,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poa-expired.js.LICENSE.txt"
   },
   {
-    "revision": "47678872693fcb3581792d893d92296f",
+    "revision": "f085242e9da3d6187ad8b8aa8ddbc20e",
     "url": "/account/js/poa-needs-review.js"
   },
   {
@@ -108,7 +108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poa-status-codes.js"
   },
   {
-    "revision": "da2aceb11c173d4672d18a94254d5351",
+    "revision": "ef3eae65536d6d28b2250a98e60a2925",
     "url": "/account/js/poa-submitted.js"
   },
   {
@@ -116,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poa-submitted.js.LICENSE.txt"
   },
   {
-    "revision": "c4e618baa0b72d97388d64ce8ada422a",
+    "revision": "a7e0994073ca00a36bf190649ca7a77a",
     "url": "/account/js/poa-unverified.js"
   },
   {
@@ -124,7 +124,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poa-unverified.js.LICENSE.txt"
   },
   {
-    "revision": "c294a6b89c3803507ec13bfb0f0d24f7",
+    "revision": "abf73aca7f1676c50839a54f66df1e2f",
     "url": "/account/js/poa-verified.js"
   },
   {
@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poa-verified.js.LICENSE.txt"
   },
   {
-    "revision": "94aff11913cbfd1ad3121cf68cf550c2",
+    "revision": "4a214d3e29a0c9286fbb60318e060926",
     "url": "/account/js/poi-expired.js"
   },
   {
@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poi-expired.js.LICENSE.txt"
   },
   {
-    "revision": "2b584ce314e5bc9958ccc72527c66d68",
+    "revision": "8a7f382c154e1563c7ba7fbf28d49755",
     "url": "/account/js/poi-missing-personal-details.js"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poi-missing-personal-details.js.LICENSE.txt"
   },
   {
-    "revision": "d81cfa524ebfdd7a5e6fd92e738de741",
+    "revision": "76949c4cd560d9e4be34155a499c6c53",
     "url": "/account/js/poi-onfido-failed.js"
   },
   {
@@ -156,7 +156,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poi-onfido-failed.js.LICENSE.txt"
   },
   {
-    "revision": "c0680d57ac709bbb9c8d4395e2d8bc48",
+    "revision": "3013a8915e1730915ea4e6c04e2c2fdf",
     "url": "/account/js/poi-unsupported.js"
   },
   {
@@ -164,7 +164,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poi-unsupported.js.LICENSE.txt"
   },
   {
-    "revision": "9b59875ddf4ccb523d4d54b56e34da29",
+    "revision": "53daf3739702f8b5161007f670b824cf",
     "url": "/account/js/poi-unverified.js"
   },
   {
@@ -172,7 +172,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poi-unverified.js.LICENSE.txt"
   },
   {
-    "revision": "5c4cbce2bc685deefbfd2c9a078bf58b",
+    "revision": "17317e7f19b63c414f0698a334c7271d",
     "url": "/account/js/poi-upload-complete.js"
   },
   {
@@ -180,7 +180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poi-upload-complete.js.LICENSE.txt"
   },
   {
-    "revision": "a63c4279610d98d35c106fae88c2276a",
+    "revision": "29fd7e664007fa747ca21f18b373185a",
     "url": "/account/js/poi-verified.js"
   },
   {
@@ -188,7 +188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poi-verified.js.LICENSE.txt"
   },
   {
-    "revision": "7814084632296182d883f7739d0454e8",
+    "revision": "a1f4bc52b3d9981d1ad1be205e9ce821",
     "url": "/account/js/proof-of-address-container.js"
   },
   {
@@ -196,7 +196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/proof-of-address-container.js.LICENSE.txt"
   },
   {
-    "revision": "b74df9fba64c63de64862b44b8c8f855",
+    "revision": "7b08be64535bc9791508743eb6f6adc9",
     "url": "/account/js/proof-of-identity-container.js"
   },
   {
@@ -214,6 +214,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5fda0073968ca653eb3af03bfa53f4dc",
     "url": "/account/js/text-container.js"
+  },
+  {
+    "revision": "863e56e2231ebefd5ceacaa3e0a189df",
+    "url": "/account/js/text.js"
+  },
+  {
+    "revision": "81896c98bac7b5b16ab1d3790da5b937",
+    "url": "/account/js/text.js.LICENSE.txt"
   },
   {
     "revision": "8e97f695f0927045205d4d8909d961b4",
@@ -236,7 +244,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "71d9ef4172f2a9c435c9",
+    "revision": "e467bf7ae2eeff7b1a23",
     "url": "/css/core.main.css"
   },
   {
@@ -756,8 +764,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-types-modal.994d123e6b22d596f52e.js"
   },
   {
-    "revision": "5fea2386f653656a215e",
-    "url": "/js/core.account.a731b95e95a587f7511a.js"
+    "revision": "575c837b7a7d15f1655a",
+    "url": "/js/core.account.5ffa7fb20b9dfcc67902.js"
   },
   {
     "revision": "5cd3ddb01bfc41443232",
@@ -780,8 +788,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.f86f4d436b620a4a0fce.js"
   },
   {
-    "revision": "71d9ef4172f2a9c435c9",
-    "url": "/js/core.main.4b4b08f3f6168fa12913.js"
+    "revision": "e467bf7ae2eeff7b1a23",
+    "url": "/js/core.main.f3c87af53334967a36ea.js"
   },
   {
     "revision": "e1cfb92d2a24bc2d5fbd",
@@ -804,8 +812,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.c7d1c75648e9e8c8a91f.js"
   },
   {
-    "revision": "f9705e72136ed32c8c72",
-    "url": "/js/core.trader.7df486949b8673b0d56a.js"
+    "revision": "1db941b21dbeb88ea7a5",
+    "url": "/js/core.trader.bf92131f77c1a215b455.js"
   },
   {
     "revision": "6c0c51de75acdfc4f75d",
@@ -916,7 +924,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.error-component.ad2880b1229258d27f08.js"
   },
   {
-    "revision": "a723b7377dc3af86af26937622289c4b",
+    "revision": "b553e6663fc2de366937b104f197ef2c",
     "url": "/js/trader.main.js"
   },
   {
@@ -928,8 +936,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/trader.reports.6d165b31df53ac19ecfa.js"
   },
   {
-    "revision": "f7f208be6f16fbe1c7a7287fb6ed2c0a",
-    "url": "/js/trader.screen-large.a8661a349e3910c52f41.js"
+    "revision": "8e77121c77569400e767cf882c165164",
+    "url": "/js/trader.screen-large.a779fe77967b2a9f8598.js"
   },
   {
     "revision": "686ae75acd063073cb79fbd4f50bf388",
