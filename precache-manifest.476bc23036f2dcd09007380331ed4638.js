@@ -964,11 +964,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/i18n/ach.json"
   },
   {
-    "revision": "9f35370f4194aa690bf6a9c322fc8ab2",
+    "revision": "40d0dc81d46137a3b69ab59780d04693",
     "url": "/public/i18n/es.json"
   },
   {
-    "revision": "26d819dd852565261439a3da7089d973",
+    "revision": "c7b097edff45cad8286dbbcfbf1b1e15",
     "url": "/public/i18n/fr.json"
   },
   {
@@ -976,23 +976,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/i18n/id.json"
   },
   {
-    "revision": "3fe6649fea7d45e5e1f6d0a97acff886",
+    "revision": "c88776b919c8c5bfd8d8f9851c41cfa1",
     "url": "/public/i18n/it.json"
   },
   {
-    "revision": "be7fd927653ec32e310b81565261ef7c",
+    "revision": "d0893a1c6f4c1050ec668bb6337f57a0",
     "url": "/public/i18n/pl.json"
   },
   {
-    "revision": "180268ab2cc0c1ff199cfb4aa1e20558",
+    "revision": "331415c3c466a6e4aa46edaf9ae95037",
     "url": "/public/i18n/pt.json"
   },
   {
-    "revision": "a69bfe3fc225b4fd1a53b28a8d1c1feb",
+    "revision": "ac53b2b76983eade4331ffb13b807e44",
     "url": "/public/i18n/ru.json"
   },
   {
-    "revision": "f6cf861d068efc1e4b43e139a0295dd3",
+    "revision": "f501df2b1658de564ec7086c49439fbf",
     "url": "/public/i18n/th.json"
   },
   {
