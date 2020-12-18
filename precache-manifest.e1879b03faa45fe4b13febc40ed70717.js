@@ -228,7 +228,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.account-types-modal.9fc512464f26e3e15670.css"
   },
   {
-    "revision": "668524f917520452a8be",
+    "revision": "ec2489665e0fd9e7e5e6",
     "url": "/css/core.cashier.8a66fbca7dfcb23ac128.css"
   },
   {
@@ -236,7 +236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.9e56bc06d50e993299eb.css"
   },
   {
-    "revision": "8d0bfaeb45d6901fffb9",
+    "revision": "ed22a87d2a0e8b994fdc",
     "url": "/css/core.main.css"
   },
   {
@@ -768,8 +768,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.2660c4a60796063b8b22.js.LICENSE.txt"
   },
   {
-    "revision": "668524f917520452a8be",
-    "url": "/js/core.cashier.c3dc0de1fe12b4ec0d4d.js"
+    "revision": "ec2489665e0fd9e7e5e6",
+    "url": "/js/core.cashier.e595a4ae7aef41dee4a7.js"
   },
   {
     "revision": "fce2fa3f5ac662f27f5d",
@@ -780,8 +780,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.loadjs.73ba303bdf762570cb2f.js"
   },
   {
-    "revision": "8d0bfaeb45d6901fffb9",
-    "url": "/js/core.main.1d537215c58619ee2434.js"
+    "revision": "ed22a87d2a0e8b994fdc",
+    "url": "/js/core.main.cb76de2cda2c90456588.js"
   },
   {
     "revision": "4650705b396438209ded",
@@ -804,8 +804,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.a0a45e5afe84b1659fb7.js"
   },
   {
-    "revision": "cc0024830186d5c5e1fe",
-    "url": "/js/core.trader.8e4cd29a8bebb0da0973.js"
+    "revision": "387a1622f6cf6007e2bb",
+    "url": "/js/core.trader.c35cea4601a8c4a39fc1.js"
   },
   {
     "revision": "b12439b4b40eb15f1c61",
@@ -908,15 +908,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/smartcharts/zh_tw-json-44a355.smartcharts.js"
   },
   {
-    "revision": "903357de508f7b270c1dfcf158adc374",
-    "url": "/js/trader.contract.2834ab6b5fc6b9784510.js"
+    "revision": "ff091a3aa1743ba1ccc38c463cf80348",
+    "url": "/js/trader.contract.5dbea56cafdb5187a5a5.js"
   },
   {
     "revision": "fce80b62dda9497237f6fadae79d47df",
     "url": "/js/trader.error-component.5dc9e40bc46ccd8ba727.js"
   },
   {
-    "revision": "55bf5cc4db06fbbd33d75de04f8276bd",
+    "revision": "f62ad20ded263970060d1eca9c67923d",
     "url": "/js/trader.main.js"
   },
   {
