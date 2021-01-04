@@ -3,5 +3,3 @@
   Licensed under the MIT License (MIT), see
   http://jedwatson.github.io/classnames
 */
-
-/*! @source http://purl.eligrey.com/github/canvas-toBlob.js/blob/master/canvas-toBlob.js */
