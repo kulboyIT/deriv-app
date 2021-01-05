@@ -224,8 +224,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/cashier.css"
   },
   {
-    "revision": "143ed842d399abb3ec9f",
-    "url": "/css/core.account-signup-modal.edd3548971fe92883868.css"
+    "revision": "7d6881419c4caa999741",
+    "url": "/css/core.account-signup-modal.41aa6fd3ec9ced47b101.css"
   },
   {
     "revision": "86b822cb7240afa83170",
@@ -236,7 +236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.79a3f16fc05fc345498f.css"
   },
   {
-    "revision": "6b90df06ae7280d53edc",
+    "revision": "fc503a4485873872ad33",
     "url": "/css/core.main.css"
   },
   {
@@ -748,7 +748,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/cashier.404.bce1af73474381de7bb0.js"
   },
   {
-    "revision": "5602cabda2d6aec21cb3e88c35e74c49",
+    "revision": "150019771f12344eaf9f783333ef050d",
     "url": "/js/cashier.js"
   },
   {
@@ -768,7 +768,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-info.766e87f5bed120db9584.js"
   },
   {
-    "revision": "143ed842d399abb3ec9f",
+    "revision": "7d6881419c4caa999741",
     "url": "/js/core.account-signup-modal.5e4e8874fcb22844f8ff.js"
   },
   {
@@ -788,8 +788,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.e8d31f48e9399e5346a3.js.LICENSE.txt"
   },
   {
-    "revision": "76e2de0e1d0b3aac8bd3",
-    "url": "/js/core.cashier.9d6d1316835530d7401b.js"
+    "revision": "d0f3011400c872da12a8",
+    "url": "/js/core.cashier.03103b167a3055d36b0d.js"
   },
   {
     "revision": "8389a49cf512b0c35e82",
@@ -800,8 +800,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.dashboard.a2369251b4912fa58d96.js"
   },
   {
-    "revision": "6b90df06ae7280d53edc",
-    "url": "/js/core.main.4f579ad9060fc9329c78.js"
+    "revision": "fc503a4485873872ad33",
+    "url": "/js/core.main.95d6ef1a4c6dffc73f7b.js"
   },
   {
     "revision": "b7bde1f4072071c7afdd",
