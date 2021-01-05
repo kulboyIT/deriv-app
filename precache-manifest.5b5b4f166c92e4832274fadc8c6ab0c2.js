@@ -248,7 +248,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/smartcharts.css"
   },
   {
-    "revision": "10d5957d1c2a71fd349616301ecf95e0",
+    "revision": "69799390aa82b221798d7f7caef7e1d3",
     "url": "/css/trader.main.css"
   },
   {
