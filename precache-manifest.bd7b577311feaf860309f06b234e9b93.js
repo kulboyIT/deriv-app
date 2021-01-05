@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.0d6d4aecff03835f4e34.js"
   },
   {
-    "revision": "fe4d1f68b908865b995eba8c2de7025a",
+    "revision": "cfe56bbe2f4a88646232d167ac50b638",
     "url": "/account/js/account.js"
   },
   {
@@ -196,7 +196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/proof-of-address-container.js.LICENSE.txt"
   },
   {
-    "revision": "f4f8e49dd7999df61c6efe12879203f9",
+    "revision": "481fc3aad1585d524cd2e9aa8b5d5391",
     "url": "/account/js/proof-of-identity-container.js"
   },
   {
@@ -236,7 +236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.d3a96ccb60e93dca79d4.css"
   },
   {
-    "revision": "5d6b6e1e46732e17500c",
+    "revision": "2aecf7e2a5a1597658ec",
     "url": "/css/core.main.css"
   },
   {
@@ -776,8 +776,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-types-modal.b7b7e983695b0d4b2a7d.js"
   },
   {
-    "revision": "d1c9f2f363b4e71b154f",
-    "url": "/js/core.account.0667512720e6e14e5a74.js"
+    "revision": "51320a38cfda2a1200b1",
+    "url": "/js/core.account.8c86247a729a0951a97e.js"
   },
   {
     "revision": "288362d922798ad1b003",
@@ -800,8 +800,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.dashboard.fed4d7c27d95ba71aaa1.js"
   },
   {
-    "revision": "5d6b6e1e46732e17500c",
-    "url": "/js/core.main.74ee73d309181edfd256.js"
+    "revision": "2aecf7e2a5a1597658ec",
+    "url": "/js/core.main.3d0348586b1dc2452a1b.js"
   },
   {
     "revision": "fc3934a4ebcd70de1020",
@@ -824,8 +824,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.50f1b2f9889b8bc9acfb.js"
   },
   {
-    "revision": "c3244593f024af5330df",
-    "url": "/js/core.trader.8baf7d9dd58b6e0df50c.js"
+    "revision": "df12b2ad60260f18f32a",
+    "url": "/js/core.trader.d1daa3e6cf3c772dd8a9.js"
   },
   {
     "revision": "eb2727f9a26f63a9b9f0",
