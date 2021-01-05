@@ -236,7 +236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.d3a96ccb60e93dca79d4.css"
   },
   {
-    "revision": "76a35e3a5bed11dc195f",
+    "revision": "272d124aafb53527b00c",
     "url": "/css/core.main.css"
   },
   {
@@ -764,8 +764,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.0.f457bac028ee9d27d28e.js"
   },
   {
-    "revision": "e87392afe441ff0a6465",
-    "url": "/js/core.account-info.f97595927569a24e94fd.js"
+    "revision": "d86b17ce117a2ddb8d2c",
+    "url": "/js/core.account-info.766e87f5bed120db9584.js"
   },
   {
     "revision": "c0d28336dee30d4d0509",
@@ -800,8 +800,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.dashboard.fed4d7c27d95ba71aaa1.js"
   },
   {
-    "revision": "76a35e3a5bed11dc195f",
-    "url": "/js/core.main.6c959bc344afcf4eeb81.js"
+    "revision": "272d124aafb53527b00c",
+    "url": "/js/core.main.ff9103eef7e84cf5ab28.js"
   },
   {
     "revision": "fc3934a4ebcd70de1020",
@@ -828,20 +828,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.trader.cba07d2688391a6ba237.js"
   },
   {
-    "revision": "eb2727f9a26f63a9b9f0",
-    "url": "/js/core.vendors~bot~trader.4ae7ed0e4989161cda2c.js"
+    "revision": "c612037801438dd59504",
+    "url": "/js/core.vendors~bot~trader.9def9243bc0d648a726b.js"
   },
   {
     "revision": "52d07faf3fab71c4ad7e9f1a3a00aa4f",
-    "url": "/js/core.vendors~bot~trader.4ae7ed0e4989161cda2c.js.LICENSE.txt"
+    "url": "/js/core.vendors~bot~trader.9def9243bc0d648a726b.js.LICENSE.txt"
   },
   {
-    "revision": "fc624753e1620a46bfca",
-    "url": "/js/core.vendors~main.d0352fd290b4e48777e0.js"
+    "revision": "5788d8723c2863432337",
+    "url": "/js/core.vendors~main.053d1d9175bc2412aca9.js"
   },
   {
     "revision": "ac0c51324eb1ff4c80230e0d53309272",
-    "url": "/js/core.vendors~main.d0352fd290b4e48777e0.js.LICENSE.txt"
+    "url": "/js/core.vendors~main.053d1d9175bc2412aca9.js.LICENSE.txt"
   },
   {
     "revision": "e454d41c1c6214c31254",
