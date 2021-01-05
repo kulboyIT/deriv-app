@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.0d6d4aecff03835f4e34.js"
   },
   {
-    "revision": "cfe56bbe2f4a88646232d167ac50b638",
+    "revision": "245934440015e36e2bf268a235f60f13",
     "url": "/account/js/account.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/error-component.js"
   },
   {
-    "revision": "90bfaf31af753a9abd730d052ec57d14",
+    "revision": "1ed8e16763d409eab6c4f87aa76d7237",
     "url": "/account/js/file-uploader-container.js"
   },
   {
@@ -188,7 +188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/poi-verified.js.LICENSE.txt"
   },
   {
-    "revision": "05f011e805cdc2e0f1c447a41b703061",
+    "revision": "1544366247edcfe3870e09a4164168a1",
     "url": "/account/js/proof-of-address-container.js"
   },
   {
@@ -236,7 +236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.d3a96ccb60e93dca79d4.css"
   },
   {
-    "revision": "9d630643306765da44cf",
+    "revision": "c87331ec4ee3fb2ef55e",
     "url": "/css/core.main.css"
   },
   {
@@ -776,8 +776,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-types-modal.b7b7e983695b0d4b2a7d.js"
   },
   {
-    "revision": "51320a38cfda2a1200b1",
-    "url": "/js/core.account.8c86247a729a0951a97e.js"
+    "revision": "cb469ee3ef084fb4400e",
+    "url": "/js/core.account.9f63b85ebe53d0c753cd.js"
   },
   {
     "revision": "4d52766ea4bb91e696f6",
@@ -800,8 +800,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.dashboard.fed4d7c27d95ba71aaa1.js"
   },
   {
-    "revision": "9d630643306765da44cf",
-    "url": "/js/core.main.4c47e61ad46fd83ee196.js"
+    "revision": "c87331ec4ee3fb2ef55e",
+    "url": "/js/core.main.4ac1772abb0c57652bb7.js"
   },
   {
     "revision": "fc3934a4ebcd70de1020",
@@ -824,8 +824,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.50f1b2f9889b8bc9acfb.js"
   },
   {
-    "revision": "df12b2ad60260f18f32a",
-    "url": "/js/core.trader.d1daa3e6cf3c772dd8a9.js"
+    "revision": "ac8f869d0baf54ebcf91",
+    "url": "/js/core.trader.14b23b2be9195c39e9d1.js"
   },
   {
     "revision": "eb2727f9a26f63a9b9f0",
