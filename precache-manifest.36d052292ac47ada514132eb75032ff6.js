@@ -236,7 +236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.d3a96ccb60e93dca79d4.css"
   },
   {
-    "revision": "288a72fb34eb89eb4080",
+    "revision": "10fa7af705814b50e108",
     "url": "/css/core.main.css"
   },
   {
@@ -248,7 +248,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/smartcharts.css"
   },
   {
-    "revision": "10d5957d1c2a71fd349616301ecf95e0",
+    "revision": "69799390aa82b221798d7f7caef7e1d3",
     "url": "/css/trader.main.css"
   },
   {
@@ -740,7 +740,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/bot/media/zoom-reset.svg"
   },
   {
-    "revision": "eea5e6f5f0f936e6ed12b1dde9949473",
+    "revision": "47d420c26c77a50c01d0f028a030faa5",
     "url": "/js/cashier-store.js"
   },
   {
@@ -800,8 +800,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.dashboard.fed4d7c27d95ba71aaa1.js"
   },
   {
-    "revision": "288a72fb34eb89eb4080",
-    "url": "/js/core.main.5284cbf3c2ae727fe8ff.js"
+    "revision": "10fa7af705814b50e108",
+    "url": "/js/core.main.5445d084f3ac0cce66ea.js"
   },
   {
     "revision": "fc3934a4ebcd70de1020",
