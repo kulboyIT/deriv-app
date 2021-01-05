@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/account.404.0d6d4aecff03835f4e34.js"
   },
   {
-    "revision": "fe4d1f68b908865b995eba8c2de7025a",
+    "revision": "cfe56bbe2f4a88646232d167ac50b638",
     "url": "/account/js/account.js"
   },
   {
@@ -196,7 +196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/js/proof-of-address-container.js.LICENSE.txt"
   },
   {
-    "revision": "f4f8e49dd7999df61c6efe12879203f9",
+    "revision": "481fc3aad1585d524cd2e9aa8b5d5391",
     "url": "/account/js/proof-of-identity-container.js"
   },
   {
@@ -236,7 +236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.d3a96ccb60e93dca79d4.css"
   },
   {
-    "revision": "5018eb046ba84a3b0c4a",
+    "revision": "bf65959a456d8ffc68f2",
     "url": "/css/core.main.css"
   },
   {
@@ -740,7 +740,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/bot/media/zoom-reset.svg"
   },
   {
-    "revision": "df7bcd34ffff5ea5d1d2c6ba6f086b3e",
+    "revision": "eea5e6f5f0f936e6ed12b1dde9949473",
     "url": "/js/cashier-store.js"
   },
   {
@@ -748,7 +748,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/cashier.404.bce1af73474381de7bb0.js"
   },
   {
-    "revision": "e815b6638bbad440106e410e9dcba2c0",
+    "revision": "a0f2c6050c0cd6ded948d8afa9a5ed08",
     "url": "/js/cashier.js"
   },
   {
@@ -776,8 +776,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-types-modal.b7b7e983695b0d4b2a7d.js"
   },
   {
-    "revision": "d1c9f2f363b4e71b154f",
-    "url": "/js/core.account.0667512720e6e14e5a74.js"
+    "revision": "51320a38cfda2a1200b1",
+    "url": "/js/core.account.8c86247a729a0951a97e.js"
   },
   {
     "revision": "288362d922798ad1b003",
@@ -788,8 +788,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.3f640168c77e6b9bf7b6.js.LICENSE.txt"
   },
   {
-    "revision": "f587333decb73f487844",
-    "url": "/js/core.cashier.363e7de404ed305fdee3.js"
+    "revision": "678e2e650d204ad0dcc1",
+    "url": "/js/core.cashier.0179c606ddde2dd82ac3.js"
   },
   {
     "revision": "ceb0197148515f162635",
@@ -800,8 +800,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.dashboard.fed4d7c27d95ba71aaa1.js"
   },
   {
-    "revision": "5018eb046ba84a3b0c4a",
-    "url": "/js/core.main.da0ed3fd3caaac4dbfea.js"
+    "revision": "bf65959a456d8ffc68f2",
+    "url": "/js/core.main.4d397be695681ab96f31.js"
   },
   {
     "revision": "fc3934a4ebcd70de1020",
@@ -824,8 +824,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.settings-theme.50f1b2f9889b8bc9acfb.js"
   },
   {
-    "revision": "c3244593f024af5330df",
-    "url": "/js/core.trader.8baf7d9dd58b6e0df50c.js"
+    "revision": "df12b2ad60260f18f32a",
+    "url": "/js/core.trader.d1daa3e6cf3c772dd8a9.js"
   },
   {
     "revision": "eb2727f9a26f63a9b9f0",
