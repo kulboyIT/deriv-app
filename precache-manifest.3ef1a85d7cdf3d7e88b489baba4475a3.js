@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/account/css/account.css"
   },
   {
-    "revision": "dcb51866490d01536a40d38e6546a13a",
-    "url": "/account/js/account.404.0d6d4aecff03835f4e34.js"
+    "revision": "f3a147663626786843c397d9a0da604a",
+    "url": "/account/js/account.404.f715827c67a331a60236.js"
   },
   {
-    "revision": "3e4fa817149655824afa95ce90a5a9e4",
+    "revision": "2424e90c2c1a2a52bb5df55d842b64fe",
     "url": "/account/js/account.js"
   },
   {
@@ -236,7 +236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.d3a96ccb60e93dca79d4.css"
   },
   {
-    "revision": "2a366488c411e9153ea9",
+    "revision": "792cebf91f7a1d43badc",
     "url": "/css/core.main.css"
   },
   {
@@ -748,7 +748,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/cashier.404.bce1af73474381de7bb0.js"
   },
   {
-    "revision": "88cb24f5cff9e99fa3f266a673e1ef59",
+    "revision": "7e70591b2cb60c9a4066b64a06cead63",
     "url": "/js/cashier.js"
   },
   {
@@ -776,8 +776,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.account-types-modal.b7b7e983695b0d4b2a7d.js"
   },
   {
-    "revision": "8b2ce0f0cf5ee56df8ee",
-    "url": "/js/core.account.4690b632a39c1604ca8a.js"
+    "revision": "dd798ca7a6f087be486b",
+    "url": "/js/core.account.3cfb30100d1393da26a6.js"
   },
   {
     "revision": "4d52766ea4bb91e696f6",
@@ -788,8 +788,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.293e6f9560cd7394d1c6.js.LICENSE.txt"
   },
   {
-    "revision": "f9691d7d2c03bcd97e96",
-    "url": "/js/core.cashier.bf9ce11b9f9a51441bc8.js"
+    "revision": "1e03854d5102ad1a543f",
+    "url": "/js/core.cashier.10dc605599d3273f234a.js"
   },
   {
     "revision": "ceb0197148515f162635",
@@ -800,8 +800,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.dashboard.fed4d7c27d95ba71aaa1.js"
   },
   {
-    "revision": "2a366488c411e9153ea9",
-    "url": "/js/core.main.2b8fd694fdbf379edb55.js"
+    "revision": "792cebf91f7a1d43badc",
+    "url": "/js/core.main.38a97167bf6a0bfc6b92.js"
   },
   {
     "revision": "fc3934a4ebcd70de1020",
