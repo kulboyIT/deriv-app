@@ -1064,6 +1064,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/app/portfolio/ic_purchase_light.svg"
   },
   {
+    "revision": "d146119888cb8bab7632d8ae275185b9",
+    "url": "/public/images/cashier-demo-dark.svg"
+  },
+  {
+    "revision": "d619edec18e323c16199d19f2a09953e",
+    "url": "/public/images/cashier-demo-light.svg"
+  },
+  {
     "revision": "b2fd89fd64d75b5b75bb7e75f2bb9029",
     "url": "/public/images/common/404.png"
   },
