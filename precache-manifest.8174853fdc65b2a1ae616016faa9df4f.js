@@ -236,7 +236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.79a3f16fc05fc345498f.css"
   },
   {
-    "revision": "7b9bd3f697aae9022117",
+    "revision": "b4cadbd3d284aeb3585b",
     "url": "/css/core.main.css"
   },
   {
@@ -748,7 +748,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/cashier.404.bce1af73474381de7bb0.js"
   },
   {
-    "revision": "f326c18165f59d4a3fb7b45b2008ad4b",
+    "revision": "09a5c6ecd0db4abfa27d3162da9455b6",
     "url": "/js/cashier.js"
   },
   {
@@ -788,20 +788,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.b2d0cb6fedb27327b53d.js.LICENSE.txt"
   },
   {
-    "revision": "a9d2f5ac66cb82b291f8",
-    "url": "/js/core.cashier.1d9700b3d70199e6aec8.js"
+    "revision": "9198cad1031dcb117a73",
+    "url": "/js/core.cashier.faf93e6e2a383a49d18e.js"
   },
   {
     "revision": "85962114565c7817e4b1",
     "url": "/js/core.complaints-policy.a41a79d0133de430a3ee.js"
   },
   {
-    "revision": "705208864eab6f09b41e",
-    "url": "/js/core.dashboard.610545a044d8b0498609.js"
+    "revision": "08577ce9435d306506e7",
+    "url": "/js/core.dashboard.b0d733208e41a8e27d61.js"
   },
   {
-    "revision": "7b9bd3f697aae9022117",
-    "url": "/js/core.main.03de819a6a04c5d3ea9e.js"
+    "revision": "b4cadbd3d284aeb3585b",
+    "url": "/js/core.main.8b5471624a49f6a5939c.js"
   },
   {
     "revision": "599b5e90aace389f1e9a",
@@ -836,12 +836,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.vendors~bot~trader.e56b21a4588617afa974.js.LICENSE.txt"
   },
   {
-    "revision": "79fdd5aac34854054978",
-    "url": "/js/core.vendors~main.40266a5802bf9bbd6450.js"
+    "revision": "2853a57c16e1874b2781",
+    "url": "/js/core.vendors~main.a85588d82712baecf22b.js"
   },
   {
     "revision": "ac0c51324eb1ff4c80230e0d53309272",
-    "url": "/js/core.vendors~main.40266a5802bf9bbd6450.js.LICENSE.txt"
+    "url": "/js/core.vendors~main.a85588d82712baecf22b.js.LICENSE.txt"
   },
   {
     "revision": "aa03dc54807350a7240c",
