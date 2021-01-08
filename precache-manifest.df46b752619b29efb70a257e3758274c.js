@@ -220,7 +220,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/bot-web-ui.main.css"
   },
   {
-    "revision": "ac4b10d9f8777c0546432b2acbeb36bb",
+    "revision": "6669962ec6c36c939436e2fa40e01a09",
     "url": "/css/cashier.css"
   },
   {
