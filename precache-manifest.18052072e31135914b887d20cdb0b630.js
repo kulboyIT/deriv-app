@@ -852,6 +852,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/dashboard/assets/images/placeholder.png"
   },
   {
+    "revision": "ce12897069cde40ef2273cfe8a65a3b1",
+    "url": "/js/dashboard/assets/images/wallet-banner-desktop.svg"
+  },
+  {
+    "revision": "2fa26226728543fb8bcf9598487b444f",
+    "url": "/js/dashboard/assets/images/wallet-banner-responsive.svg"
+  },
+  {
     "revision": "e0543288c8157aeb3bdd984219c150ee",
     "url": "/js/favicon.ico"
   },
