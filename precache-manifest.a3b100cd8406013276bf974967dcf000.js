@@ -320,7 +320,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.e55caab1e7fbca47401f.css"
   },
   {
-    "revision": "6fe065642ffe43598c67",
+    "revision": "9e67961c893443ca7101",
     "url": "/css/core.main.css"
   },
   {
@@ -824,7 +824,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/bot/media/zoom-reset.svg"
   },
   {
-    "revision": "8c56c4d8ff959dcea84b564234424f30",
+    "revision": "6212c83b31a553ec413c7dffefdb01f0",
     "url": "/js/cashier-store.js"
   },
   {
@@ -884,8 +884,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.dashboard.8e9b58c183613a52a5e8.js"
   },
   {
-    "revision": "6fe065642ffe43598c67",
-    "url": "/js/core.main.6e787f6f139fcc01858c.js"
+    "revision": "9e67961c893443ca7101",
+    "url": "/js/core.main.c5cfcb6ffaa982a8cfdf.js"
   },
   {
     "revision": "e151c9e6276c14c0f50c",
