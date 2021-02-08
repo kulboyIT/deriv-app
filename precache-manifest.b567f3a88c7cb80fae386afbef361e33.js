@@ -320,7 +320,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.e55caab1e7fbca47401f.css"
   },
   {
-    "revision": "dbf08b0d0604dc25d040",
+    "revision": "535098cba34e00d4dff4",
     "url": "/css/core.main.css"
   },
   {
@@ -832,7 +832,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/cashier.404.bce1af73474381de7bb0.js"
   },
   {
-    "revision": "7c10477d31bc75e779bd67d158aed232",
+    "revision": "f3c2ffe12ffb5d9995b7b529cb864ce2",
     "url": "/js/cashier.js"
   },
   {
@@ -872,8 +872,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.bot.6e87996e62c629fadb12.js.LICENSE.txt"
   },
   {
-    "revision": "57e1119f7b824d809aae",
-    "url": "/js/core.cashier.1c0fc45d82aff50321ec.js"
+    "revision": "d254a215630294466519",
+    "url": "/js/core.cashier.829bf5ea7e796a0be0a7.js"
   },
   {
     "revision": "a104e035c8e2c5e05528",
@@ -884,8 +884,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.dashboard.81d783aac4c0b0933bc4.js"
   },
   {
-    "revision": "dbf08b0d0604dc25d040",
-    "url": "/js/core.main.a7d553a360b3a10e3efa.js"
+    "revision": "535098cba34e00d4dff4",
+    "url": "/js/core.main.64a0b25c813acc65d53e.js"
   },
   {
     "revision": "e151c9e6276c14c0f50c",
