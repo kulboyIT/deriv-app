@@ -320,7 +320,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/core.complaints-policy.4b816ca794162f81cd9e.css"
   },
   {
-    "revision": "3d50928c9c7f95c9237f",
+    "revision": "2ddd7422f1acc040d4f1",
     "url": "/css/core.main.css"
   },
   {
@@ -880,12 +880,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/core.complaints-policy.50cddd941b950abb6662.js"
   },
   {
-    "revision": "2fcc728098e0e9e102fc",
-    "url": "/js/core.dashboard.bbf4ca02fa6c2236f62d.js"
+    "revision": "8d7181360728bc926ad9",
+    "url": "/js/core.dashboard.892cae3323b2676657a3.js"
   },
   {
-    "revision": "3d50928c9c7f95c9237f",
-    "url": "/js/core.main.f95a19ad40d359acb8ca.js"
+    "revision": "2ddd7422f1acc040d4f1",
+    "url": "/js/core.main.8be21337b3c586cf6a24.js"
   },
   {
     "revision": "1b02d1d3769051bcd139",
@@ -950,6 +950,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1219ca44c130d7a0b344fdd2cd259cd0",
     "url": "/js/dashboard/assets/images/platforms/dmt5-synthetic-2.png"
+  },
+  {
+    "revision": "a541741197fd5ae09040352686f1ea33",
+    "url": "/js/dashboard/assets/images/qrcode-placeholder.png"
   },
   {
     "revision": "ce12897069cde40ef2273cfe8a65a3b1",
@@ -1260,7 +1264,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/public/images/favicons/favicon.ico"
   },
   {
-    "revision": "94a684d9ceb1b5fc16e700b6cbeb54d0",
+    "revision": "6137894176b8674d9e00b54d8aaf9d28",
     "url": "/public/images/sprite/common.svg"
   },
   {
