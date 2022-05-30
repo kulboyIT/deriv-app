@@ -22,3 +22,6 @@ packages/appstore/dist/
 packages/appstore/lib/
 .env
 
+/packages/appstore/tsconfig.tsbuildinfo
+/packages/cfd/tsconfig.tsbuildinfo
+/packages/trader/tsconfig.tsbuildinfo
